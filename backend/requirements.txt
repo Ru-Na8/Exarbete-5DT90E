@@ -1,4 +1,18 @@
 fastapi==0.109.0
 uvicorn[standard]==0.27.0
-pandas==2.1.4
 openpyxl==3.1.2
+
+# Future iterations (uncomment when needed):
+# -----------------------------------------
+# Database
+# sqlalchemy==2.0.25
+# asyncpg==0.29.0
+
+# ML/Data Science
+numpy==2.4.1
+pandas==3.0.0
+matplotlib==3.10.8
+# scikit-learn==1.4.0
+
+# Environment management
+# python-dotenv==1.0.0
