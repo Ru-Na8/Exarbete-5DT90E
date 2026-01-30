@@ -1,8 +1,6 @@
-
 from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
 
-# Initialize FastAPI application
 app = FastAPI(
     title="AI-Based Sit-to-Walk Movement Quality Screening System",
     description="Backend for thesis project",
@@ -23,10 +21,6 @@ app.add_middleware(
 
 @app.get("/health")
 async def health_check():
-    """
-    Health check endpoint.
-    Returns API status for monitoring and frontend connectivity tests.
-    """
     return {
         "status": "healthy",
         "version": "0.1.0",
