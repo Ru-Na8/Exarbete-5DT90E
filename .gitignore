@@ -1,18 +1,27 @@
-# Python
+# =====================
+# Python (FastAPI)
+# =====================
 __pycache__/
 *.pyc
+*.pyo
+*.pyd
 
-# Nuxt / Node
+# =====================
+# Node / Nuxt
+# =====================
 node_modules/
 .nuxt/
 dist/
 
-# Environment
-.env
-.env.local
-
+# =====================
 # OS / Editor
+# =====================
 .DS_Store
 .vscode/
 .idea/
 
+# =====================
+# Env files (future)
+# =====================
+.env
+.env.local
