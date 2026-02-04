@@ -25,3 +25,9 @@ dist/
 # =====================
 .env
 .env.local
+.python-version
+venv
+.venv
+
+# Large files
+backend/data/Utvalda filminspelningar för IRAF analys
