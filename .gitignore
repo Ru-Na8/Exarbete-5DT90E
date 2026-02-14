@@ -31,3 +31,4 @@ venv
 
 # Large files
 backend/data/Utvalda filminspelningar för IRAF analys
+backend/data/processed/keypoints_augmented/
