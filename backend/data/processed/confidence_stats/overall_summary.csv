@@ -1,0 +1,4 @@
+Model Metric,Mean,Std
+MoveNet (Confidence),0.7321,0.1452
+MediaPipe (Visibility),0.8823,0.2031
+MediaPipe (Presence),1.0,0.0001
