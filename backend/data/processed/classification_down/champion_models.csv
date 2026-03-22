@@ -1,0 +1,13 @@
+phase,feature_set,model,Accuracy,F1,AUC
+utgångsposition,pose,LogisticRegression,0.875,0.909,0.933
+utgångsposition,molab,LogisticRegression,0.625,0.667,0.667
+utgångsposition,combined,LogisticRegression,0.75,0.8,0.867
+rörelsestart,pose,LogisticRegression,0.9,0.8,0.952
+rörelsestart,molab,RandomForest,0.7,0.4,0.81
+rörelsestart,combined,LogisticRegression,0.9,0.857,0.857
+rörelseutförande,pose,RandomForest,0.714,0.75,0.708
+rörelseutförande,molab,LogisticRegression,0.714,0.75,0.833
+rörelseutförande,combined,LogisticRegression,0.714,0.75,0.833
+total,pose,LogisticRegression,0.875,0.857,0.938
+total,molab,LogisticRegression,1.0,1.0,1.0
+total,combined,LogisticRegression,1.0,1.0,1.0

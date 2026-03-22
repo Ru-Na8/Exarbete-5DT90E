@@ -1,11 +1,7 @@
 feature,iraf_score,spearman_rho,p_value,source
-mean_head_trunk_angle,iraf_rörelsestart,-0.8563488385776752,0.0015606874657326,Pose
-trunk_hip_correlation,iraf_rörelsestart,-0.8563488385776752,0.0015606874657326,Pose
-initial_trunk_angle,iraf_rörelsestart,0.7784989441615229,0.0079822260267498,Pose
-peak_pelvis_gyro,iraf_rörelsestart,0.7784989441615229,0.0079822260267498,MoLab
-forb_peak_pelvis_gyro,iraf_rörelsestart,0.7784989441615229,0.0079822260267498,MoLab
-max_pelvis_tilt,iraf_rörelsestart,-0.7395739969534467,0.0144920956185264,MoLab
-mean_trunk_angle,iraf_rörelsestart,0.7395739969534467,0.0144920956185264,Pose
-delta_pelvis_tilt,iraf_rörelsestart,0.7006490497453706,0.024018509248755,MoLab
-forb_delta_trunk_flexion,iraf_rörelsestart,-0.6832602082626514,0.0294061339208932,Pose
-mean_L_hip_flexion,iraf_rörelsestart,-0.6617241025372943,0.0371522540385022,MoLab
+mean_pelvis_lateral,iraf_rörelsestart,-0.620862786805697,0.055415959756752,MoLab
+forb_peak_pelvis_gyro,iraf_rörelsestart,0.6018567831279716,0.0656287994542614,MoLab
+peak_pelvis_gyro,iraf_rörelsestart,0.6018567831279716,0.0656287994542614,MoLab
+forb_trunk_hip_correlation,iraf_rörelsestart,0.7792461507867422,0.0078827422970041,Pose
+rms_angular_acceleration,iraf_rörelsestart,0.4878207610616191,0.1526273899916203,Pose
+delta_trunk_flexion,iraf_rörelsestart,-0.4688147573838936,0.1716982334741985,Pose
