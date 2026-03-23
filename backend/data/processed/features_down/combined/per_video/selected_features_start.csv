@@ -1,7 +1,7 @@
 feature,iraf_score,spearman_rho,p_value,source
-fas2_pelvis_lateral,iraf_rörelsestart,-0.7136240321480626,0.0204706624175964,MoLab
-mean_L_ankle_flexion,iraf_rörelsestart,0.5968491905238341,0.0685108462978873,MoLab
-peak_pelvis_gyro,iraf_rörelsestart,0.53846176971172,0.1083216458545476,MoLab
-fas2_knee_asym,iraf_rörelsestart,-0.5903616993224882,0.0723658002975235,Pose
-peak_trunk_angular_velocity,iraf_rörelsestart,-0.4541243840942217,0.1873651460012105,Pose
-fas2_rms_pelvis_acc_x,iraf_rörelsestart,0.3957369632821075,0.2576328294425024,Pose
+mean_L_hip_flexion,iraf_rörelsestart,0.5698028822981897,0.085504397547833,MoLab
+peak_pelvis_gyro,iraf_rörelsestart,0.5698028822981897,0.085504397547833,MoLab
+mean_L_ankle_flexion,iraf_rörelsestart,0.493829164658431,0.1468784228020159,MoLab
+mean_right_hip_angle,iraf_rörelsestart,-0.6457765999379483,0.0437033558309941,Pose
+fas2_hip_asym,iraf_rörelsestart,-0.6457765999379483,0.0437033558309941,Pose
+fas2_knee_asym,iraf_rörelsestart,-0.5698028822981897,0.085504397547833,Pose
