@@ -1,0 +1,7 @@
+feature,iraf_score,spearman_rho,p_value,source
+fas1_peak_thigh_gyro,iraf_utgångsposition,-0.6606060606060605,0.0375883775714093,MoLab
+fas1_pelvis_lateral,iraf_utgångsposition,-0.5878787878787878,0.073877706888658,MoLab
+fas2_ROM_hip,iraf_utgångsposition,0.5757575757575757,0.0815528147726024,MoLab
+stance_to_hip_ratio,iraf_utgångsposition,-0.7575757575757575,0.0111434467996942,Pose
+stance_width,iraf_utgångsposition,-0.6484848484848483,0.0425401276844894,Pose
+fas1_peak_pelvis_velocity_y,iraf_utgångsposition,-0.5757575757575757,0.0815528147726024,Pose

@@ -1,0 +1,7 @@
+feature,iraf_score,spearman_rho,p_value,source
+fas2_pelvis_lateral,iraf_total,-0.7696969696969697,0.0092219527222159,MoLab
+fas1_pelvis_lateral,iraf_total,-0.7575757575757575,0.0111434467996942,MoLab
+mean_pelvis_lateral,iraf_total,-0.6363636363636362,0.0479117261299754,MoLab
+peak_trunk_angular_velocity,iraf_total,-0.5636363636363636,0.0897240283170912,Pose
+fas2_pelvis_backward_displacement,iraf_total,0.4787878787878787,0.1615229280174559,Pose
+mean_left_hip_angle,iraf_total,-0.4787878787878787,0.1615229280174559,Pose
