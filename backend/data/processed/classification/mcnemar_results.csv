@@ -23,9 +23,9 @@ rörelseutförande,pose,RandomForest,XGBoost,0,2,0.5,False
 rörelseutförande,molab,LogisticRegression,RandomForest,1,0,1.0,False
 rörelseutförande,molab,LogisticRegression,XGBoost,0,0,1.0,False
 rörelseutförande,molab,RandomForest,XGBoost,0,1,1.0,False
-rörelseutförande,combined,LogisticRegression,RandomForest,3,0,0.25,False
+rörelseutförande,combined,LogisticRegression,RandomForest,2,0,0.5,False
 rörelseutförande,combined,LogisticRegression,XGBoost,1,0,1.0,False
-rörelseutförande,combined,RandomForest,XGBoost,0,2,0.5,False
+rörelseutförande,combined,RandomForest,XGBoost,0,1,1.0,False
 total,pose,LogisticRegression,RandomForest,0,0,1.0,False
 total,pose,LogisticRegression,XGBoost,0,0,1.0,False
 total,pose,RandomForest,XGBoost,0,0,1.0,False

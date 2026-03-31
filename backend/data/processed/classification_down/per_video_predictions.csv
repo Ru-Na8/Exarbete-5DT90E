@@ -116,7 +116,7 @@ rörelsestart,RandomForest,molab,030,0,0
 rörelsestart,RandomForest,molab,045,0,1
 rörelsestart,RandomForest,molab,047,1,1
 rörelsestart,RandomForest,molab,059,0,0
-rörelsestart,RandomForest,molab,061,0,0
+rörelsestart,RandomForest,molab,061,0,1
 rörelsestart,RandomForest,molab,074,1,0
 rörelsestart,RandomForest,molab,076,1,0
 rörelsestart,RandomForest,molab,091,0,0
@@ -150,7 +150,7 @@ rörelsestart,RandomForest,combined,061,0,0
 rörelsestart,RandomForest,combined,074,1,0
 rörelsestart,RandomForest,combined,076,1,0
 rörelsestart,RandomForest,combined,091,0,0
-rörelsestart,RandomForest,combined,093,0,1
+rörelsestart,RandomForest,combined,093,0,0
 rörelsestart,XGBoost,combined,028,0,0
 rörelsestart,XGBoost,combined,030,0,0
 rörelsestart,XGBoost,combined,045,0,0
@@ -185,7 +185,7 @@ rörelseutförande,XGBoost,pose,093,1,0
 rörelseutförande,LogisticRegression,molab,030,0,0
 rörelseutförande,LogisticRegression,molab,045,1,1
 rörelseutförande,LogisticRegression,molab,061,0,0
-rörelseutförande,LogisticRegression,molab,074,1,1
+rörelseutförande,LogisticRegression,molab,074,1,0
 rörelseutförande,LogisticRegression,molab,076,0,1
 rörelseutförande,LogisticRegression,molab,091,1,1
 rörelseutförande,LogisticRegression,molab,093,1,0

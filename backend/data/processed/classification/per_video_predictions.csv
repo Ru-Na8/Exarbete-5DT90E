@@ -229,7 +229,7 @@ rörelseutförande,RandomForest,combined,047,1,1
 rörelseutförande,RandomForest,combined,059,1,1
 rörelseutförande,RandomForest,combined,061,1,0
 rörelseutförande,RandomForest,combined,074,1,1
-rörelseutförande,RandomForest,combined,076,1,0
+rörelseutförande,RandomForest,combined,076,1,1
 rörelseutförande,RandomForest,combined,091,1,1
 rörelseutförande,RandomForest,combined,093,0,1
 rörelseutförande,XGBoost,combined,028,1,1
