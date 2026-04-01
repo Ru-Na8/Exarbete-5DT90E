@@ -5,6 +5,7 @@ utgångsposition,LogisticRegression,pose,047,1,1
 utgångsposition,LogisticRegression,pose,059,1,1
 utgångsposition,LogisticRegression,pose,061,1,1
 utgångsposition,LogisticRegression,pose,074,1,1
+utgångsposition,LogisticRegression,pose,076,1,1
 utgångsposition,LogisticRegression,pose,091,1,1
 utgångsposition,LogisticRegression,pose,093,1,1
 utgångsposition,RandomForest,pose,028,1,1
@@ -13,6 +14,7 @@ utgångsposition,RandomForest,pose,047,1,1
 utgångsposition,RandomForest,pose,059,1,1
 utgångsposition,RandomForest,pose,061,1,1
 utgångsposition,RandomForest,pose,074,1,1
+utgångsposition,RandomForest,pose,076,1,1
 utgångsposition,RandomForest,pose,091,1,1
 utgångsposition,RandomForest,pose,093,1,1
 utgångsposition,XGBoost,pose,028,1,1
@@ -21,6 +23,7 @@ utgångsposition,XGBoost,pose,047,1,1
 utgångsposition,XGBoost,pose,059,1,1
 utgångsposition,XGBoost,pose,061,1,1
 utgångsposition,XGBoost,pose,074,1,1
+utgångsposition,XGBoost,pose,076,1,1
 utgångsposition,XGBoost,pose,091,1,1
 utgångsposition,XGBoost,pose,093,1,1
 utgångsposition,LogisticRegression,molab,028,1,1
@@ -29,6 +32,7 @@ utgångsposition,LogisticRegression,molab,047,1,1
 utgångsposition,LogisticRegression,molab,059,1,1
 utgångsposition,LogisticRegression,molab,061,1,1
 utgångsposition,LogisticRegression,molab,074,1,1
+utgångsposition,LogisticRegression,molab,076,1,1
 utgångsposition,LogisticRegression,molab,091,1,1
 utgångsposition,LogisticRegression,molab,093,1,1
 utgångsposition,RandomForest,molab,028,1,1
@@ -37,6 +41,7 @@ utgångsposition,RandomForest,molab,047,1,1
 utgångsposition,RandomForest,molab,059,1,1
 utgångsposition,RandomForest,molab,061,1,1
 utgångsposition,RandomForest,molab,074,1,1
+utgångsposition,RandomForest,molab,076,1,1
 utgångsposition,RandomForest,molab,091,1,1
 utgångsposition,RandomForest,molab,093,1,1
 utgångsposition,XGBoost,molab,028,1,1
@@ -45,6 +50,7 @@ utgångsposition,XGBoost,molab,047,1,1
 utgångsposition,XGBoost,molab,059,1,1
 utgångsposition,XGBoost,molab,061,1,1
 utgångsposition,XGBoost,molab,074,1,1
+utgångsposition,XGBoost,molab,076,1,1
 utgångsposition,XGBoost,molab,091,1,1
 utgångsposition,XGBoost,molab,093,1,1
 utgångsposition,LogisticRegression,combined,028,1,1
@@ -53,6 +59,7 @@ utgångsposition,LogisticRegression,combined,047,1,1
 utgångsposition,LogisticRegression,combined,059,1,1
 utgångsposition,LogisticRegression,combined,061,1,1
 utgångsposition,LogisticRegression,combined,074,1,1
+utgångsposition,LogisticRegression,combined,076,1,1
 utgångsposition,LogisticRegression,combined,091,1,1
 utgångsposition,LogisticRegression,combined,093,1,1
 utgångsposition,RandomForest,combined,028,1,1
@@ -61,6 +68,7 @@ utgångsposition,RandomForest,combined,047,1,1
 utgångsposition,RandomForest,combined,059,1,1
 utgångsposition,RandomForest,combined,061,1,1
 utgångsposition,RandomForest,combined,074,1,1
+utgångsposition,RandomForest,combined,076,1,1
 utgångsposition,RandomForest,combined,091,1,1
 utgångsposition,RandomForest,combined,093,1,1
 utgångsposition,XGBoost,combined,028,1,1
@@ -69,6 +77,7 @@ utgångsposition,XGBoost,combined,047,1,1
 utgångsposition,XGBoost,combined,059,1,1
 utgångsposition,XGBoost,combined,061,1,1
 utgångsposition,XGBoost,combined,074,1,1
+utgångsposition,XGBoost,combined,076,1,1
 utgångsposition,XGBoost,combined,091,1,1
 utgångsposition,XGBoost,combined,093,1,1
 rörelsestart,LogisticRegression,pose,028,1,1
