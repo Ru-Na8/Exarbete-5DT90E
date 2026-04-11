@@ -1,0 +1,17 @@
+phase,aspect_id,aspect_name,028,030,045,047,059,061,074,076,091,093
+f1,1,"Står med fötterna parallellt, riktade rakt fram",0.8107,0.3967,0.3821,0.5673,0.214,0.0706,1.0,0.0,0.7134,0.2185
+f1,2,Står med fötterna rakt under höftlederna,0.7028,0.4897,0.4785,0.6918,0.1399,0.1482,1.0,0.0486,0.7949,0.1092
+f1,5,Knäna neutralt semiflekterade,0.3588,0.7782,0.2428,0.6141,0.383,0.3123,0.4398,0.6948,0.7917,0.7807
+f1,6,Bäckenet neutralt framåttippat i sagittalplan,0.025,0.1459,0.9369,0.2535,0.5752,0.5087,0.5141,0.447,0.4844,0.2031
+f1,11,Huvudet symmetrisk position rakt ovanför bålen,0.3429,0.2588,0.5112,0.3475,0.4115,0.6045,1.0,0.1696,0.3741,0.0
+f1,12,Cervikalrygg i neutral lordos i sagittalplan,0.3429,0.2588,0.5112,0.3475,0.4115,0.6045,1.0,0.1696,0.3741,0.0
+f1,13,Axlarna symmetriska och i samma nivå,0.0,1.0,0.1836,0.0025,0.3783,0.9659,0.3362,0.7577,0.0442,0.5373
+f1,15,Bålen placerad rakt över bäckenet i sagittalplan,0.025,0.1459,0.9369,0.2535,0.5752,0.5087,0.5141,0.447,0.4844,0.2031
+f2,1,"Bålen fälls framåt, höfter och knän böjs (flekteras)",0.556,0.4916,0.5505,0.8373,0.6946,0.22,0.3399,0.278,0.0455,0.2911
+f3,2,Bålen fortsätter fällas framåt och höftböjningen fortskrider,0.4257,0.6079,0.335,1.0,0.9487,0.2031,0.2772,0.4191,0.0646,0.3957
+f3,3,Knäna fortsätter böjas och rör sig framåt initialt.,0.3412,0.575,0.6698,0.4808,0.447,0.1424,0.2646,0.5071,0.5609,0.4732
+f3,4,Knäna bibehålls riktade mot mellersta tån,0.2611,0.419,0.0845,0.3459,0.8974,0.608,0.4491,0.3798,0.3697,0.1991
+f3,5,Kontrollerad sänkning av kroppen,1.0,0.3151,0.0892,0.2449,0.1519,0.0,0.4792,0.3004,0.4871,0.1815
+f3,7,Förflyttar bäckenet bakåt/nedåt kontrollerat och symmetriskt,0.4655,0.2168,0.7594,0.3957,0.3138,0.3813,0.8782,0.2729,0.4771,0.5292
+f3,8,Knäna bibehålls riktade mot mellersta tån,0.3152,0.2478,0.5179,0.2755,0.5275,0.9523,0.0,0.1099,0.8361,1.0
+f3,9,Händer/armar följer med i rörelsen utan aktivt mothåll mot armstöd/sits,0.2283,0.0,0.0327,0.0807,0.0297,0.0833,0.2078,0.0084,1.0,0.1407
