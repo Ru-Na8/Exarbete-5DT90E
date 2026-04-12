@@ -1,18 +1,20 @@
 phase,aspect_id,aspect_name,028,030,045,047,059,061,074,076,091,093
-f1,1,"Står med fötterna parallellt, riktade rakt fram",0.8107,0.3967,0.3821,0.5673,0.214,0.0706,1.0,0.0,0.7134,0.2185
-f1,2,Står med fötterna rakt under höftlederna,0.7028,0.4897,0.4785,0.6918,0.1399,0.1482,1.0,0.0486,0.7949,0.1092
-f1,5,Knäna neutralt semiflekterade,0.3588,0.7782,0.2428,0.6141,0.383,0.3123,0.4398,0.6948,0.7917,0.7807
-f1,6,Bäckenet neutralt framåttippat i sagittalplan,0.025,0.1459,0.9369,0.2535,0.5752,0.5087,0.5141,0.447,0.4844,0.2031
-f1,11,Huvudet symmetrisk position rakt ovanför bålen,0.3429,0.2588,0.5112,0.3475,0.4115,0.6045,1.0,0.1696,0.3741,0.0
-f1,12,Cervikalrygg i neutral lordos i sagittalplan,0.3429,0.2588,0.5112,0.3475,0.4115,0.6045,1.0,0.1696,0.3741,0.0
-f1,13,Axlarna symmetriska och i samma nivå,0.0,1.0,0.1836,0.0025,0.3783,0.9659,0.3362,0.7577,0.0442,0.5373
-f1,14,Överarmarna längs med bålen,0.2283,0.0,0.0327,0.0807,0.0297,0.0833,0.2078,0.0084,1.0,0.1407
-f1,15,Bålen placerad rakt över bäckenet i sagittalplan,0.025,0.1459,0.9369,0.2535,0.5752,0.5087,0.5141,0.447,0.4844,0.2031
-f2,1,"Bålen fälls framåt, höfter och knän böjs (flekteras)",0.556,0.4916,0.5505,0.8373,0.6946,0.22,0.3399,0.278,0.0455,0.2911
-f3,2,Bålen fortsätter fällas framåt och höftböjningen fortskrider,0.4257,0.6079,0.335,1.0,0.9487,0.2031,0.2772,0.4191,0.0646,0.3957
-f3,3,Knäna fortsätter böjas och rör sig framåt initialt.,0.3412,0.575,0.6698,0.4808,0.447,0.1424,0.2646,0.5071,0.5609,0.4732
-f3,4,Knäna bibehålls riktade mot mellersta tån,0.2611,0.419,0.0845,0.3459,0.8974,0.608,0.4491,0.3798,0.3697,0.1991
-f3,5,Kontrollerad sänkning av kroppen,1.0,0.3151,0.0892,0.2449,0.1519,0.0,0.4792,0.3004,0.4871,0.1815
-f3,7,Förflyttar bäckenet bakåt/nedåt kontrollerat och symmetriskt,0.4655,0.2168,0.7594,0.3957,0.3138,0.3813,0.8782,0.2729,0.4771,0.5292
-f3,8,Knäna bibehålls riktade mot mellersta tån,0.3152,0.2478,0.5179,0.2755,0.5275,0.9523,0.0,0.1099,0.8361,1.0
-f3,9,Händer/armar följer med i rörelsen utan aktivt mothåll mot armstöd/sits,0.2283,0.0,0.0327,0.0807,0.0297,0.0833,0.2078,0.0084,1.0,0.1407
+f1,1,"Står med fötterna parallellt, riktade rakt fram",0.7591,0.6993,0.2139,1.0,0.0,0.1244,1.0,0.0,0.6353,0.3851
+f1,2,Står med fötterna rakt under höftlederna,0.6627,0.7065,0.3794,1.0,0.0,0.2005,1.0,0.0595,0.7516,0.1925
+f1,4,Knäskålarna riktade mot mellersta tån,0.871,0.0,0.307,0.51,0.747,0.7247,0.5,0.2067,0.4348,0.2035
+f1,5,Knäna neutralt semiflekterade,0.3897,0.9484,0.2461,0.5352,0.435,0.0,0.492,0.7579,0.9149,0.9355
+f1,6,Bäckenet neutralt framåttippat i sagittalplan,0.0,0.1713,0.9369,0.193,0.5528,0.5583,0.4943,0.7748,0.4738,0.5
+f1,9,Thorakalrygg i neutral kyfos i sagittalplan,0.0,0.3681,0.628,0.2874,0.105,0.5583,0.6048,0.5956,0.3122,0.5
+f1,11,Huvudet symmetrisk position rakt ovanför bålen,0.0,0.4282,0.256,0.5749,0.1044,1.0,1.0,0.2806,0.0475,0.0
+f1,12,Cervikalrygg i neutral lordos i sagittalplan,0.0,0.4282,0.256,0.5749,0.1044,1.0,1.0,0.2806,0.0475,0.0
+f1,13,Axlarna symmetriska och i samma nivå,0.0,1.0,0.4852,0.0,1.0,0.9658,0.8887,0.7571,0.1168,0.5362
+f1,14,Överarmarna längs med bålen,0.2047,0.0,0.0031,0.5738,0.0,0.5918,0.1836,0.0597,1.0,1.0
+f1,15,Bålen placerad rakt över bäckenet i sagittalplan,0.0,0.1713,0.9369,0.193,0.5528,0.5583,0.4943,0.7748,0.4738,0.5
+f2,1,"Bålen fälls framåt, höfter och knän böjs (flekteras)",0.5918,0.4575,0.5238,1.0,0.7319,0.2253,0.3684,0.1969,0.0042,0.2597
+f3,2,Bålen fortsätter fällas framåt och höftböjningen fortskrider,0.3884,0.5727,0.2919,1.0,1.0,0.122,0.2544,0.3118,0.0,0.3212
+f3,3,Knäna fortsätter böjas och rör sig framåt initialt.,0.2972,0.6319,0.5478,0.6097,0.3759,0.1919,0.5,0.5,0.4011,0.6136
+f3,4,Knäna bibehålls riktade mot mellersta tån,0.235,0.613,0.0577,0.5496,0.8966,0.9228,0.4491,0.5246,0.3416,0.3097
+f3,5,Kontrollerad sänkning av kroppen,1.0,0.91,0.0,0.689,0.0705,0.0,0.4584,0.8214,0.4611,0.4859
+f3,7,Förflyttar bäckenet bakåt/nedåt kontrollerat och symmetriskt,0.3094,0.1563,0.7441,0.5587,0.1716,0.497,0.8706,0.358,0.484,0.8991
+f3,8,Knäna bibehålls riktade mot mellersta tån,0.377,0.1549,0.6194,0.1861,0.631,0.9464,0.0,0.0,1.0,1.0
+f3,9,Händer/armar följer med i rörelsen utan aktivt mothåll mot armstöd/sits,0.2047,0.0,0.0031,0.5738,0.0,0.5918,0.1836,0.0597,1.0,1.0

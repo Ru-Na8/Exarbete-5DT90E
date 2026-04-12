@@ -1,8 +1,10 @@
 phase,aspect,candidate_features,data_source,rationale
 f1,"Står med fötterna parallellt, riktade rakt fram",stance_to_hip_ratio,SAT,SAT stance width normalised to hip width measures whether feet are placed parallel and symmetrically
 f1,Står med fötterna rakt under höftlederna,stance_width/ stance_to_hip_ratio,SAT,SAT absolute stance width measures foot placement distance relative to hip width/ SAT hip-normalised stance ratio confirms feet are positioned directly under the hip joints
+f1,Knäskålarna riktade mot mellersta tån,knee_asym/ delta_knee_angle,SAT,SAT knee asymmetry measures left-right knee alignment. neutral alignment points kneecaps toward middle toes/ SAT left-right knee angle difference captures bilateral kneecap direction asymmetry
 f1,Knäna neutralt semiflekterade,mean_left_knee_angle/ mean_right_knee_angle/ mean_knee_forward,SAT,SAT left knee flexion angle confirms the required semi-flexed starting position/ SAT right knee flexion angle confirms the required semi-flexed starting position/ SAT mean knee forward position captures the anterior tibial inclination in the semi-flexed stance
 f1,Bäckenet neutralt framåttippat i sagittalplan,mean_trunk_angle/ mean_pelvis_tilt,SAT/ MoLab,SAT trunk sagittal angle captures pelvis orientation in the starting posture/ MoLab pelvis tilt is added because it measures slight anterior pelvic tilt more directly than SAT
+f1,Thorakalrygg i neutral kyfos i sagittalplan,mean_trunk_angle/ mean_head_trunk_angle,SAT,SAT overall trunk sagittal angle captures thoracic spinal curvature in the sagittal plane/ SAT head-trunk angle reflects the upper thoracic and cervical contribution to kyphosis
 f1,Huvudet symmetrisk position rakt ovanför bålen,mean_head_trunk_angle,SAT,SAT head-trunk angle measures whether the head is symmetrically positioned directly above the trunk
 f1,Cervikalrygg i neutral lordos i sagittalplan,mean_head_trunk_angle,SAT,SAT head-trunk angle serves as an indirect measure of cervical lordosis via head position relative to trunk
 f1,Axlarna symmetriska och i samma nivå,shoulder_asym,SAT,SAT shoulder asymmetry directly quantifies whether shoulders are level and symmetric
