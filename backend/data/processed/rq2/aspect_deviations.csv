@@ -1,0 +1,391 @@
+movement,phase,aspect_id,aspect_name,video_id,aspect_deviation
+2a_1,f1,2,Knä flex >90gr,028,0.0
+2a_1,f1,2,Knä flex >90gr,030,0.0
+2a_1,f1,2,Knä flex >90gr,045,0.5905
+2a_1,f1,2,Knä flex >90gr,047,0.3586
+2a_1,f1,2,Knä flex >90gr,059,0.8354
+2a_1,f1,2,Knä flex >90gr,061,1.0
+2a_1,f1,2,Knä flex >90gr,074,0.5729
+2a_1,f1,2,Knä flex >90gr,076,0.1453
+2a_1,f1,2,Knä flex >90gr,091,0.0161
+2a_1,f1,2,Knä flex >90gr,093,0.612
+2a_1,f1,3,Knäskålarna riktade rakt fram,028,0.0
+2a_1,f1,3,Knäskålarna riktade rakt fram,030,0.0
+2a_1,f1,3,Knäskålarna riktade rakt fram,045,0.41
+2a_1,f1,3,Knäskålarna riktade rakt fram,047,0.6322
+2a_1,f1,3,Knäskålarna riktade rakt fram,059,1.0
+2a_1,f1,3,Knäskålarna riktade rakt fram,061,0.7684
+2a_1,f1,3,Knäskålarna riktade rakt fram,074,0.8712
+2a_1,f1,3,Knäskålarna riktade rakt fram,076,0.4448
+2a_1,f1,3,Knäskålarna riktade rakt fram,091,0.1141
+2a_1,f1,3,Knäskålarna riktade rakt fram,093,0.9315
+2a_1,f1,4,Bäcken i neutralposition (lätt framåttippat),028,0.0
+2a_1,f1,4,Bäcken i neutralposition (lätt framåttippat),030,0.0
+2a_1,f1,4,Bäcken i neutralposition (lätt framåttippat),045,0.6665
+2a_1,f1,4,Bäcken i neutralposition (lätt framåttippat),047,0.8661
+2a_1,f1,4,Bäcken i neutralposition (lätt framåttippat),059,0.246
+2a_1,f1,4,Bäcken i neutralposition (lätt framåttippat),061,0.5559
+2a_1,f1,4,Bäcken i neutralposition (lätt framåttippat),074,0.7632
+2a_1,f1,4,Bäcken i neutralposition (lätt framåttippat),076,0.798
+2a_1,f1,4,Bäcken i neutralposition (lätt framåttippat),091,0.5753
+2a_1,f1,4,Bäcken i neutralposition (lätt framåttippat),093,0.6349
+2a_1,f1,6,Ländrygg i neutral ländlordos,028,0.0
+2a_1,f1,6,Ländrygg i neutral ländlordos,030,0.0
+2a_1,f1,6,Ländrygg i neutral ländlordos,045,0.6665
+2a_1,f1,6,Ländrygg i neutral ländlordos,047,0.8661
+2a_1,f1,6,Ländrygg i neutral ländlordos,059,0.246
+2a_1,f1,6,Ländrygg i neutral ländlordos,061,0.5559
+2a_1,f1,6,Ländrygg i neutral ländlordos,074,0.7632
+2a_1,f1,6,Ländrygg i neutral ländlordos,076,0.798
+2a_1,f1,6,Ländrygg i neutral ländlordos,091,0.5753
+2a_1,f1,6,Ländrygg i neutral ländlordos,093,0.6349
+2a_1,f1,7,Bröstrygg i neutral thorakalkyfos,028,0.0
+2a_1,f1,7,Bröstrygg i neutral thorakalkyfos,030,0.0
+2a_1,f1,7,Bröstrygg i neutral thorakalkyfos,045,0.3661
+2a_1,f1,7,Bröstrygg i neutral thorakalkyfos,047,0.9086
+2a_1,f1,7,Bröstrygg i neutral thorakalkyfos,059,0.3193
+2a_1,f1,7,Bröstrygg i neutral thorakalkyfos,061,1.0
+2a_1,f1,7,Bröstrygg i neutral thorakalkyfos,074,0.7632
+2a_1,f1,7,Bröstrygg i neutral thorakalkyfos,076,0.8076
+2a_1,f1,7,Bröstrygg i neutral thorakalkyfos,091,0.5867
+2a_1,f1,7,Bröstrygg i neutral thorakalkyfos,093,0.4044
+2a_1,f1,8,Hela bålen strax framför sittbensknölarna,028,0.0
+2a_1,f1,8,Hela bålen strax framför sittbensknölarna,030,0.0
+2a_1,f1,8,Hela bålen strax framför sittbensknölarna,045,0.7156
+2a_1,f1,8,Hela bålen strax framför sittbensknölarna,047,0.434
+2a_1,f1,8,Hela bålen strax framför sittbensknölarna,059,0.7578
+2a_1,f1,8,Hela bålen strax framför sittbensknölarna,061,0.7574
+2a_1,f1,8,Hela bålen strax framför sittbensknölarna,074,0.0289
+2a_1,f1,8,Hela bålen strax framför sittbensknölarna,076,0.5447
+2a_1,f1,8,Hela bålen strax framför sittbensknölarna,091,1.0
+2a_1,f1,8,Hela bålen strax framför sittbensknölarna,093,1.0
+2a_1,f1,9,Överarmar neutralt längs med bålen utan rotation,028,0.0
+2a_1,f1,9,Överarmar neutralt längs med bålen utan rotation,030,0.0
+2a_1,f1,9,Överarmar neutralt längs med bålen utan rotation,045,1.0
+2a_1,f1,9,Överarmar neutralt längs med bålen utan rotation,047,0.1669
+2a_1,f1,9,Överarmar neutralt längs med bålen utan rotation,059,0.0813
+2a_1,f1,9,Överarmar neutralt längs med bålen utan rotation,061,0.5393
+2a_1,f1,9,Överarmar neutralt längs med bålen utan rotation,074,0.5219
+2a_1,f1,9,Överarmar neutralt längs med bålen utan rotation,076,1.0
+2a_1,f1,9,Överarmar neutralt längs med bålen utan rotation,091,0.7379
+2a_1,f1,9,Överarmar neutralt längs med bålen utan rotation,093,0.571
+2a_1,f1,10,Huvudet positionerat över bålen,028,0.0
+2a_1,f1,10,Huvudet positionerat över bålen,030,0.0
+2a_1,f1,10,Huvudet positionerat över bålen,045,0.0215
+2a_1,f1,10,Huvudet positionerat över bålen,047,0.8938
+2a_1,f1,10,Huvudet positionerat över bålen,059,0.318
+2a_1,f1,10,Huvudet positionerat över bålen,061,1.0
+2a_1,f1,10,Huvudet positionerat över bålen,074,1.0
+2a_1,f1,10,Huvudet positionerat över bålen,076,0.7168
+2a_1,f1,10,Huvudet positionerat över bålen,091,0.1734
+2a_1,f1,10,Huvudet positionerat över bålen,093,0.539
+2a_1,f1,11,Nacke i neutral cervikallordos,028,0.0
+2a_1,f1,11,Nacke i neutral cervikallordos,030,0.0
+2a_1,f1,11,Nacke i neutral cervikallordos,045,0.0215
+2a_1,f1,11,Nacke i neutral cervikallordos,047,0.8938
+2a_1,f1,11,Nacke i neutral cervikallordos,059,0.318
+2a_1,f1,11,Nacke i neutral cervikallordos,061,1.0
+2a_1,f1,11,Nacke i neutral cervikallordos,074,1.0
+2a_1,f1,11,Nacke i neutral cervikallordos,076,0.7168
+2a_1,f1,11,Nacke i neutral cervikallordos,091,0.1734
+2a_1,f1,11,Nacke i neutral cervikallordos,093,0.539
+2a_1,f2,1,Framåttippning av bäckenet och framåtfällning av bålen,028,0.0
+2a_1,f2,1,Framåttippning av bäckenet och framåtfällning av bålen,030,0.0
+2a_1,f2,1,Framåttippning av bäckenet och framåtfällning av bålen,045,0.487
+2a_1,f2,1,Framåttippning av bäckenet och framåtfällning av bålen,047,0.6786
+2a_1,f2,1,Framåttippning av bäckenet och framåtfällning av bålen,059,0.4167
+2a_1,f2,1,Framåttippning av bäckenet och framåtfällning av bålen,061,0.4172
+2a_1,f2,1,Framåttippning av bäckenet och framåtfällning av bålen,074,0.764
+2a_1,f2,1,Framåttippning av bäckenet och framåtfällning av bålen,076,0.5112
+2a_1,f2,1,Framåttippning av bäckenet och framåtfällning av bålen,091,0.7969
+2a_1,f2,1,Framåttippning av bäckenet och framåtfällning av bålen,093,1.0
+2a_1,f3,1,Rörelsen utförs med jämt flöde (fluid och smooth),028,0.0
+2a_1,f3,1,Rörelsen utförs med jämt flöde (fluid och smooth),030,0.0
+2a_1,f3,1,Rörelsen utförs med jämt flöde (fluid och smooth),045,0.6661
+2a_1,f3,1,Rörelsen utförs med jämt flöde (fluid och smooth),047,0.8922
+2a_1,f3,1,Rörelsen utförs med jämt flöde (fluid och smooth),059,0.6778
+2a_1,f3,1,Rörelsen utförs med jämt flöde (fluid och smooth),061,0.6973
+2a_1,f3,1,Rörelsen utförs med jämt flöde (fluid och smooth),074,0.9933
+2a_1,f3,1,Rörelsen utförs med jämt flöde (fluid och smooth),076,1.0
+2a_1,f3,1,Rörelsen utförs med jämt flöde (fluid och smooth),091,0.809
+2a_1,f3,1,Rörelsen utförs med jämt flöde (fluid och smooth),093,0.6324
+2a_1,f3,3,Bäckenet fortsätter framåt tillsammans med bålen (flexion momentum),028,0.0
+2a_1,f3,3,Bäckenet fortsätter framåt tillsammans med bålen (flexion momentum),030,0.0
+2a_1,f3,3,Bäckenet fortsätter framåt tillsammans med bålen (flexion momentum),045,0.4965
+2a_1,f3,3,Bäckenet fortsätter framåt tillsammans med bålen (flexion momentum),047,0.8244
+2a_1,f3,3,Bäckenet fortsätter framåt tillsammans med bålen (flexion momentum),059,0.5876
+2a_1,f3,3,Bäckenet fortsätter framåt tillsammans med bålen (flexion momentum),061,0.5135
+2a_1,f3,3,Bäckenet fortsätter framåt tillsammans med bålen (flexion momentum),074,0.653
+2a_1,f3,3,Bäckenet fortsätter framåt tillsammans med bålen (flexion momentum),076,0.4734
+2a_1,f3,3,Bäckenet fortsätter framåt tillsammans med bålen (flexion momentum),091,0.852
+2a_1,f3,3,Bäckenet fortsätter framåt tillsammans med bålen (flexion momentum),093,0.8133
+2a_1,f3,4,Huvudet följer i linje med bålens längsaxel,028,0.0
+2a_1,f3,4,Huvudet följer i linje med bålens längsaxel,030,0.0
+2a_1,f3,4,Huvudet följer i linje med bålens längsaxel,045,0.5943
+2a_1,f3,4,Huvudet följer i linje med bålens längsaxel,047,0.8372
+2a_1,f3,4,Huvudet följer i linje med bålens längsaxel,059,0.8977
+2a_1,f3,4,Huvudet följer i linje med bålens längsaxel,061,1.0
+2a_1,f3,4,Huvudet följer i linje med bålens längsaxel,074,0.803
+2a_1,f3,4,Huvudet följer i linje med bålens längsaxel,076,0.9033
+2a_1,f3,4,Huvudet följer i linje med bålens längsaxel,091,1.0
+2a_1,f3,4,Huvudet följer i linje med bålens längsaxel,093,0.4221
+2a_1,f3,5,Händer och armar följer avslappnat med i rörelsen utan aktivt tryck/drag/pendling,028,0.0
+2a_1,f3,5,Händer och armar följer avslappnat med i rörelsen utan aktivt tryck/drag/pendling,030,0.0
+2a_1,f3,5,Händer och armar följer avslappnat med i rörelsen utan aktivt tryck/drag/pendling,045,0.4
+2a_1,f3,5,Händer och armar följer avslappnat med i rörelsen utan aktivt tryck/drag/pendling,047,0.8
+2a_1,f3,5,Händer och armar följer avslappnat med i rörelsen utan aktivt tryck/drag/pendling,059,0.4
+2a_1,f3,5,Händer och armar följer avslappnat med i rörelsen utan aktivt tryck/drag/pendling,061,1.0
+2a_1,f3,5,Händer och armar följer avslappnat med i rörelsen utan aktivt tryck/drag/pendling,074,1.0
+2a_1,f3,5,Händer och armar följer avslappnat med i rörelsen utan aktivt tryck/drag/pendling,076,0.8
+2a_1,f3,5,Händer och armar följer avslappnat med i rörelsen utan aktivt tryck/drag/pendling,091,0.6
+2a_1,f3,5,Händer och armar följer avslappnat med i rörelsen utan aktivt tryck/drag/pendling,093,0.8
+2a_1,f3,6,Bålen förflyttas ytterligare framåt med tillräcklig hastighet,028,0.0
+2a_1,f3,6,Bålen förflyttas ytterligare framåt med tillräcklig hastighet,030,0.0
+2a_1,f3,6,Bålen förflyttas ytterligare framåt med tillräcklig hastighet,045,0.5316
+2a_1,f3,6,Bålen förflyttas ytterligare framåt med tillräcklig hastighet,047,0.6562
+2a_1,f3,6,Bålen förflyttas ytterligare framåt med tillräcklig hastighet,059,0.6133
+2a_1,f3,6,Bålen förflyttas ytterligare framåt med tillräcklig hastighet,061,0.4942
+2a_1,f3,6,Bålen förflyttas ytterligare framåt med tillräcklig hastighet,074,0.653
+2a_1,f3,6,Bålen förflyttas ytterligare framåt med tillräcklig hastighet,076,0.323
+2a_1,f3,6,Bålen förflyttas ytterligare framåt med tillräcklig hastighet,091,0.8322
+2a_1,f3,6,Bålen förflyttas ytterligare framåt med tillräcklig hastighet,093,0.9006
+2a_1,f3,8,Knät och underbenets proximala del förflyttas rakt framåt (dorsalflexion i fotlederna),028,0.0
+2a_1,f3,8,Knät och underbenets proximala del förflyttas rakt framåt (dorsalflexion i fotlederna),030,0.0
+2a_1,f3,8,Knät och underbenets proximala del förflyttas rakt framåt (dorsalflexion i fotlederna),045,0.398
+2a_1,f3,8,Knät och underbenets proximala del förflyttas rakt framåt (dorsalflexion i fotlederna),047,0.266
+2a_1,f3,8,Knät och underbenets proximala del förflyttas rakt framåt (dorsalflexion i fotlederna),059,0.4978
+2a_1,f3,8,Knät och underbenets proximala del förflyttas rakt framåt (dorsalflexion i fotlederna),061,0.5377
+2a_1,f3,8,Knät och underbenets proximala del förflyttas rakt framåt (dorsalflexion i fotlederna),074,0.5426
+2a_1,f3,8,Knät och underbenets proximala del förflyttas rakt framåt (dorsalflexion i fotlederna),076,0.2255
+2a_1,f3,8,Knät och underbenets proximala del förflyttas rakt framåt (dorsalflexion i fotlederna),091,0.5281
+2a_1,f3,8,Knät och underbenets proximala del förflyttas rakt framåt (dorsalflexion i fotlederna),093,0.8071
+2a_1,f3,9,Sträcker knä- och höftleder till neutralläge för stående,028,0.0
+2a_1,f3,9,Sträcker knä- och höftleder till neutralläge för stående,030,0.0
+2a_1,f3,9,Sträcker knä- och höftleder till neutralläge för stående,045,0.9956
+2a_1,f3,9,Sträcker knä- och höftleder till neutralläge för stående,047,0.3722
+2a_1,f3,9,Sträcker knä- och höftleder till neutralläge för stående,059,0.5268
+2a_1,f3,9,Sträcker knä- och höftleder till neutralläge för stående,061,0.9498
+2a_1,f3,9,Sträcker knä- och höftleder till neutralläge för stående,074,0.588
+2a_1,f3,9,Sträcker knä- och höftleder till neutralläge för stående,076,0.1695
+2a_1,f3,9,Sträcker knä- och höftleder till neutralläge för stående,091,0.4458
+2a_1,f3,9,Sträcker knä- och höftleder till neutralläge för stående,093,0.7106
+2a_1,f3,10,Bålen vinklas upp till neutral stående utgångsposition,028,0.0
+2a_1,f3,10,Bålen vinklas upp till neutral stående utgångsposition,030,0.0
+2a_1,f3,10,Bålen vinklas upp till neutral stående utgångsposition,045,0.1447
+2a_1,f3,10,Bålen vinklas upp till neutral stående utgångsposition,047,1.0
+2a_1,f3,10,Bålen vinklas upp till neutral stående utgångsposition,059,1.0
+2a_1,f3,10,Bålen vinklas upp till neutral stående utgångsposition,061,0.1525
+2a_1,f3,10,Bålen vinklas upp till neutral stående utgångsposition,074,0.6503
+2a_1,f3,10,Bålen vinklas upp till neutral stående utgångsposition,076,0.2236
+2a_1,f3,10,Bålen vinklas upp till neutral stående utgångsposition,091,0.7151
+2a_1,f3,10,Bålen vinklas upp till neutral stående utgångsposition,093,0.4548
+2a_1,f3,11,Nacke och skuldror följer hela bålens rörelse.,028,0.0
+2a_1,f3,11,Nacke och skuldror följer hela bålens rörelse.,030,0.0
+2a_1,f3,11,Nacke och skuldror följer hela bålens rörelse.,045,0.5943
+2a_1,f3,11,Nacke och skuldror följer hela bålens rörelse.,047,0.8372
+2a_1,f3,11,Nacke och skuldror följer hela bålens rörelse.,059,0.8977
+2a_1,f3,11,Nacke och skuldror följer hela bålens rörelse.,061,1.0
+2a_1,f3,11,Nacke och skuldror följer hela bålens rörelse.,074,0.803
+2a_1,f3,11,Nacke och skuldror följer hela bålens rörelse.,076,0.9033
+2a_1,f3,11,Nacke och skuldror följer hela bålens rörelse.,091,1.0
+2a_1,f3,11,Nacke och skuldror följer hela bålens rörelse.,093,0.4221
+2a_1,f3,12,Händer och armar följer avslappnat med i rörelsen utan aktivt tryck/drag/pendling,028,0.0
+2a_1,f3,12,Händer och armar följer avslappnat med i rörelsen utan aktivt tryck/drag/pendling,030,0.0
+2a_1,f3,12,Händer och armar följer avslappnat med i rörelsen utan aktivt tryck/drag/pendling,045,0.4
+2a_1,f3,12,Händer och armar följer avslappnat med i rörelsen utan aktivt tryck/drag/pendling,047,0.8
+2a_1,f3,12,Händer och armar följer avslappnat med i rörelsen utan aktivt tryck/drag/pendling,059,0.4
+2a_1,f3,12,Händer och armar följer avslappnat med i rörelsen utan aktivt tryck/drag/pendling,061,1.0
+2a_1,f3,12,Händer och armar följer avslappnat med i rörelsen utan aktivt tryck/drag/pendling,074,1.0
+2a_1,f3,12,Händer och armar följer avslappnat med i rörelsen utan aktivt tryck/drag/pendling,076,0.8
+2a_1,f3,12,Händer och armar följer avslappnat med i rörelsen utan aktivt tryck/drag/pendling,091,0.6
+2a_1,f3,12,Händer och armar följer avslappnat med i rörelsen utan aktivt tryck/drag/pendling,093,0.8
+2a_2,f1,1,"Står med fötterna parallellt, riktade rakt fram",028,0.0
+2a_2,f1,1,"Står med fötterna parallellt, riktade rakt fram",030,0.0
+2a_2,f1,1,"Står med fötterna parallellt, riktade rakt fram",045,0.7182
+2a_2,f1,1,"Står med fötterna parallellt, riktade rakt fram",047,0.4299
+2a_2,f1,1,"Står med fötterna parallellt, riktade rakt fram",059,1.0
+2a_2,f1,1,"Står med fötterna parallellt, riktade rakt fram",061,0.8222
+2a_2,f1,1,"Står med fötterna parallellt, riktade rakt fram",074,0.3173
+2a_2,f1,1,"Står med fötterna parallellt, riktade rakt fram",076,1.0
+2a_2,f1,1,"Står med fötterna parallellt, riktade rakt fram",091,0.1631
+2a_2,f1,1,"Står med fötterna parallellt, riktade rakt fram",093,0.4492
+2a_2,f1,2,Står med fötterna rakt under höftlederna,028,0.0
+2a_2,f1,2,Står med fötterna rakt under höftlederna,030,0.0
+2a_2,f1,2,Står med fötterna rakt under höftlederna,045,0.3787
+2a_2,f1,2,Står med fötterna rakt under höftlederna,047,0.415
+2a_2,f1,2,Står med fötterna rakt under höftlederna,059,1.0
+2a_2,f1,2,Står med fötterna rakt under höftlederna,061,0.7166
+2a_2,f1,2,Står med fötterna rakt under höftlederna,074,0.5424
+2a_2,f1,2,Står med fötterna rakt under höftlederna,076,0.9164
+2a_2,f1,2,Står med fötterna rakt under höftlederna,091,0.3474
+2a_2,f1,2,Står med fötterna rakt under höftlederna,093,0.7246
+2a_2,f1,4,Knäskålarna riktade mot mellersta tån,028,0.0
+2a_2,f1,4,Knäskålarna riktade mot mellersta tån,030,0.0
+2a_2,f1,4,Knäskålarna riktade mot mellersta tån,045,0.693
+2a_2,f1,4,Knäskålarna riktade mot mellersta tån,047,0.5092
+2a_2,f1,4,Knäskålarna riktade mot mellersta tån,059,0.2986
+2a_2,f1,4,Knäskålarna riktade mot mellersta tån,061,0.7248
+2a_2,f1,4,Knäskålarna riktade mot mellersta tån,074,0.6734
+2a_2,f1,4,Knäskålarna riktade mot mellersta tån,076,0.207
+2a_2,f1,4,Knäskålarna riktade mot mellersta tån,091,0.4675
+2a_2,f1,4,Knäskålarna riktade mot mellersta tån,093,0.204
+2a_2,f1,5,Knäna neutralt semiflekterade,028,0.0
+2a_2,f1,5,Knäna neutralt semiflekterade,030,0.0
+2a_2,f1,5,Knäna neutralt semiflekterade,045,0.5485
+2a_2,f1,5,Knäna neutralt semiflekterade,047,0.425
+2a_2,f1,5,Knäna neutralt semiflekterade,059,0.1816
+2a_2,f1,5,Knäna neutralt semiflekterade,061,1.0
+2a_2,f1,5,Knäna neutralt semiflekterade,074,0.4017
+2a_2,f1,5,Knäna neutralt semiflekterade,076,0.2002
+2a_2,f1,5,Knäna neutralt semiflekterade,091,0.7517
+2a_2,f1,5,Knäna neutralt semiflekterade,093,0.1216
+2a_2,f1,6,Bäckenet neutralt framåttippat i sagittalplan,028,0.0
+2a_2,f1,6,Bäckenet neutralt framåttippat i sagittalplan,030,0.0
+2a_2,f1,6,Bäckenet neutralt framåttippat i sagittalplan,045,0.9369
+2a_2,f1,6,Bäckenet neutralt framåttippat i sagittalplan,047,0.4045
+2a_2,f1,6,Bäckenet neutralt framåttippat i sagittalplan,059,0.5528
+2a_2,f1,6,Bäckenet neutralt framåttippat i sagittalplan,061,0.6383
+2a_2,f1,6,Bäckenet neutralt framåttippat i sagittalplan,074,0.4943
+2a_2,f1,6,Bäckenet neutralt framåttippat i sagittalplan,076,0.7484
+2a_2,f1,6,Bäckenet neutralt framåttippat i sagittalplan,091,0.4738
+2a_2,f1,6,Bäckenet neutralt framåttippat i sagittalplan,093,0.5179
+2a_2,f1,9,Thorakalrygg i neutral kyfos i sagittalplan,028,0.0
+2a_2,f1,9,Thorakalrygg i neutral kyfos i sagittalplan,030,0.0
+2a_2,f1,9,Thorakalrygg i neutral kyfos i sagittalplan,045,0.628
+2a_2,f1,9,Thorakalrygg i neutral kyfos i sagittalplan,047,0.3508
+2a_2,f1,9,Thorakalrygg i neutral kyfos i sagittalplan,059,0.105
+2a_2,f1,9,Thorakalrygg i neutral kyfos i sagittalplan,061,0.6383
+2a_2,f1,9,Thorakalrygg i neutral kyfos i sagittalplan,074,0.6048
+2a_2,f1,9,Thorakalrygg i neutral kyfos i sagittalplan,076,0.5644
+2a_2,f1,9,Thorakalrygg i neutral kyfos i sagittalplan,091,0.3122
+2a_2,f1,9,Thorakalrygg i neutral kyfos i sagittalplan,093,0.8744
+2a_2,f1,11,Huvudet symmetrisk position rakt ovanför bålen,028,0.0
+2a_2,f1,11,Huvudet symmetrisk position rakt ovanför bålen,030,0.0
+2a_2,f1,11,Huvudet symmetrisk position rakt ovanför bålen,045,0.256
+2a_2,f1,11,Huvudet symmetrisk position rakt ovanför bålen,047,0.2566
+2a_2,f1,11,Huvudet symmetrisk position rakt ovanför bålen,059,0.1044
+2a_2,f1,11,Huvudet symmetrisk position rakt ovanför bålen,061,1.0
+2a_2,f1,11,Huvudet symmetrisk position rakt ovanför bålen,074,1.0
+2a_2,f1,11,Huvudet symmetrisk position rakt ovanför bålen,076,0.2581
+2a_2,f1,11,Huvudet symmetrisk position rakt ovanför bålen,091,0.0475
+2a_2,f1,11,Huvudet symmetrisk position rakt ovanför bålen,093,0.7487
+2a_2,f1,12,Cervikalrygg i neutral lordos i sagittalplan,028,0.0
+2a_2,f1,12,Cervikalrygg i neutral lordos i sagittalplan,030,0.0
+2a_2,f1,12,Cervikalrygg i neutral lordos i sagittalplan,045,0.256
+2a_2,f1,12,Cervikalrygg i neutral lordos i sagittalplan,047,0.2566
+2a_2,f1,12,Cervikalrygg i neutral lordos i sagittalplan,059,0.1044
+2a_2,f1,12,Cervikalrygg i neutral lordos i sagittalplan,061,1.0
+2a_2,f1,12,Cervikalrygg i neutral lordos i sagittalplan,074,1.0
+2a_2,f1,12,Cervikalrygg i neutral lordos i sagittalplan,076,0.2581
+2a_2,f1,12,Cervikalrygg i neutral lordos i sagittalplan,091,0.0475
+2a_2,f1,12,Cervikalrygg i neutral lordos i sagittalplan,093,0.7487
+2a_2,f1,13,Axlarna symmetriska och i samma nivå,028,0.0
+2a_2,f1,13,Axlarna symmetriska och i samma nivå,030,0.0
+2a_2,f1,13,Axlarna symmetriska och i samma nivå,045,0.4878
+2a_2,f1,13,Axlarna symmetriska och i samma nivå,047,1.0
+2a_2,f1,13,Axlarna symmetriska och i samma nivå,059,1.0
+2a_2,f1,13,Axlarna symmetriska och i samma nivå,061,0.0346
+2a_2,f1,13,Axlarna symmetriska och i samma nivå,074,0.8902
+2a_2,f1,13,Axlarna symmetriska och i samma nivå,076,0.2425
+2a_2,f1,13,Axlarna symmetriska och i samma nivå,091,0.1159
+2a_2,f1,13,Axlarna symmetriska och i samma nivå,093,0.4642
+2a_2,f1,14,Överarmarna längs med bålen,028,0.0
+2a_2,f1,14,Överarmarna längs med bålen,030,0.0
+2a_2,f1,14,Överarmarna längs med bålen,045,0.2535
+2a_2,f1,14,Överarmarna längs med bålen,047,0.5738
+2a_2,f1,14,Överarmarna längs med bålen,059,0.2574
+2a_2,f1,14,Överarmarna längs med bålen,061,0.5918
+2a_2,f1,14,Överarmarna längs med bålen,074,0.0265
+2a_2,f1,14,Överarmarna längs med bålen,076,0.0597
+2a_2,f1,14,Överarmarna längs med bålen,091,1.0
+2a_2,f1,14,Överarmarna längs med bålen,093,1.0
+2a_2,f1,15,Bålen placerad rakt över bäckenet i sagittalplan,028,0.0
+2a_2,f1,15,Bålen placerad rakt över bäckenet i sagittalplan,030,0.0
+2a_2,f1,15,Bålen placerad rakt över bäckenet i sagittalplan,045,0.9369
+2a_2,f1,15,Bålen placerad rakt över bäckenet i sagittalplan,047,0.4045
+2a_2,f1,15,Bålen placerad rakt över bäckenet i sagittalplan,059,0.5528
+2a_2,f1,15,Bålen placerad rakt över bäckenet i sagittalplan,061,0.6383
+2a_2,f1,15,Bålen placerad rakt över bäckenet i sagittalplan,074,0.4943
+2a_2,f1,15,Bålen placerad rakt över bäckenet i sagittalplan,076,0.7484
+2a_2,f1,15,Bålen placerad rakt över bäckenet i sagittalplan,091,0.4738
+2a_2,f1,15,Bålen placerad rakt över bäckenet i sagittalplan,093,0.5179
+2a_2,f2,1,"Bålen fälls framåt, höfter och knän böjs (flekteras)",028,0.0
+2a_2,f2,1,"Bålen fälls framåt, höfter och knän böjs (flekteras)",030,0.0
+2a_2,f2,1,"Bålen fälls framåt, höfter och knän böjs (flekteras)",045,0.7796
+2a_2,f2,1,"Bålen fälls framåt, höfter och knän böjs (flekteras)",047,0.3106
+2a_2,f2,1,"Bålen fälls framåt, höfter och knän böjs (flekteras)",059,0.3749
+2a_2,f2,1,"Bålen fälls framåt, höfter och knän böjs (flekteras)",061,0.4917
+2a_2,f2,1,"Bålen fälls framåt, höfter och knän böjs (flekteras)",074,0.2582
+2a_2,f2,1,"Bålen fälls framåt, höfter och knän böjs (flekteras)",076,0.4703
+2a_2,f2,1,"Bålen fälls framåt, höfter och knän böjs (flekteras)",091,0.5442
+2a_2,f2,1,"Bålen fälls framåt, höfter och knän böjs (flekteras)",093,1.0
+2a_2,f3,2,Bålen fortsätter fällas framåt och höftböjningen fortskrider,028,0.0
+2a_2,f3,2,Bålen fortsätter fällas framåt och höftböjningen fortskrider,030,0.0
+2a_2,f3,2,Bålen fortsätter fällas framåt och höftböjningen fortskrider,045,0.525
+2a_2,f3,2,Bålen fortsätter fällas framåt och höftböjningen fortskrider,047,0.7542
+2a_2,f3,2,Bålen fortsätter fällas framåt och höftböjningen fortskrider,059,0.9101
+2a_2,f3,2,Bålen fortsätter fällas framåt och höftböjningen fortskrider,061,0.7364
+2a_2,f3,2,Bålen fortsätter fällas framåt och höftböjningen fortskrider,074,0.5342
+2a_2,f3,2,Bålen fortsätter fällas framåt och höftböjningen fortskrider,076,0.6426
+2a_2,f3,2,Bålen fortsätter fällas framåt och höftböjningen fortskrider,091,0.5643
+2a_2,f3,2,Bålen fortsätter fällas framåt och höftböjningen fortskrider,093,0.4826
+2a_2,f3,3,Knäna fortsätter böjas och rör sig framåt initialt.,028,0.0
+2a_2,f3,3,Knäna fortsätter böjas och rör sig framåt initialt.,030,0.0
+2a_2,f3,3,Knäna fortsätter böjas och rör sig framåt initialt.,045,0.6396
+2a_2,f3,3,Knäna fortsätter böjas och rör sig framåt initialt.,047,0.7526
+2a_2,f3,3,Knäna fortsätter böjas och rör sig framåt initialt.,059,0.2106
+2a_2,f3,3,Knäna fortsätter böjas och rör sig framåt initialt.,061,0.5443
+2a_2,f3,3,Knäna fortsätter böjas och rör sig framåt initialt.,074,0.7158
+2a_2,f3,3,Knäna fortsätter böjas och rör sig framåt initialt.,076,0.4863
+2a_2,f3,3,Knäna fortsätter böjas och rör sig framåt initialt.,091,0.5651
+2a_2,f3,3,Knäna fortsätter böjas och rör sig framåt initialt.,093,0.8631
+2a_2,f3,4,Knäna bibehålls riktade mot mellersta tån,028,0.0
+2a_2,f3,4,Knäna bibehålls riktade mot mellersta tån,030,0.0
+2a_2,f3,4,Knäna bibehålls riktade mot mellersta tån,045,0.2643
+2a_2,f3,4,Knäna bibehålls riktade mot mellersta tån,047,0.7656
+2a_2,f3,4,Knäna bibehålls riktade mot mellersta tån,059,0.8596
+2a_2,f3,4,Knäna bibehålls riktade mot mellersta tån,061,0.4648
+2a_2,f3,4,Knäna bibehålls riktade mot mellersta tån,074,0.468
+2a_2,f3,4,Knäna bibehålls riktade mot mellersta tån,076,0.5214
+2a_2,f3,4,Knäna bibehålls riktade mot mellersta tån,091,0.5302
+2a_2,f3,4,Knäna bibehålls riktade mot mellersta tån,093,0.9769
+2a_2,f3,5,Kontrollerad sänkning av kroppen,028,0.0
+2a_2,f3,5,Kontrollerad sänkning av kroppen,030,0.0
+2a_2,f3,5,Kontrollerad sänkning av kroppen,045,1.0
+2a_2,f3,5,Kontrollerad sänkning av kroppen,047,0.2318
+2a_2,f3,5,Kontrollerad sänkning av kroppen,059,0.9295
+2a_2,f3,5,Kontrollerad sänkning av kroppen,061,1.0
+2a_2,f3,5,Kontrollerad sänkning av kroppen,074,0.5416
+2a_2,f3,5,Kontrollerad sänkning av kroppen,076,0.2881
+2a_2,f3,5,Kontrollerad sänkning av kroppen,091,0.5389
+2a_2,f3,5,Kontrollerad sänkning av kroppen,093,0.4424
+2a_2,f3,7,Förflyttar bäckenet bakåt/nedåt kontrollerat och symmetriskt,028,0.0
+2a_2,f3,7,Förflyttar bäckenet bakåt/nedåt kontrollerat och symmetriskt,030,0.0
+2a_2,f3,7,Förflyttar bäckenet bakåt/nedåt kontrollerat och symmetriskt,045,0.7309
+2a_2,f3,7,Förflyttar bäckenet bakåt/nedåt kontrollerat och symmetriskt,047,0.4719
+2a_2,f3,7,Förflyttar bäckenet bakåt/nedåt kontrollerat och symmetriskt,059,0.3922
+2a_2,f3,7,Förflyttar bäckenet bakåt/nedåt kontrollerat och symmetriskt,061,0.5679
+2a_2,f3,7,Förflyttar bäckenet bakåt/nedåt kontrollerat och symmetriskt,074,0.7854
+2a_2,f3,7,Förflyttar bäckenet bakåt/nedåt kontrollerat och symmetriskt,076,0.4673
+2a_2,f3,7,Förflyttar bäckenet bakåt/nedåt kontrollerat och symmetriskt,091,0.603
+2a_2,f3,7,Förflyttar bäckenet bakåt/nedåt kontrollerat och symmetriskt,093,0.8571
+2a_2,f3,8,Knäna bibehålls riktade mot mellersta tån,028,0.0
+2a_2,f3,8,Knäna bibehålls riktade mot mellersta tån,030,0.0
+2a_2,f3,8,Knäna bibehålls riktade mot mellersta tån,045,0.3879
+2a_2,f3,8,Knäna bibehålls riktade mot mellersta tån,047,0.0366
+2a_2,f3,8,Knäna bibehålls riktade mot mellersta tån,059,0.4081
+2a_2,f3,8,Knäna bibehålls riktade mot mellersta tån,061,0.9354
+2a_2,f3,8,Knäna bibehålls riktade mot mellersta tån,074,0.6045
+2a_2,f3,8,Knäna bibehålls riktade mot mellersta tån,076,0.1832
+2a_2,f3,8,Knäna bibehålls riktade mot mellersta tån,091,1.0
+2a_2,f3,8,Knäna bibehålls riktade mot mellersta tån,093,1.0
+2a_2,f3,9,Händer/armar följer med i rörelsen utan aktivt mothåll mot armstöd/sits,028,0.0
+2a_2,f3,9,Händer/armar följer med i rörelsen utan aktivt mothåll mot armstöd/sits,030,0.0
+2a_2,f3,9,Händer/armar följer med i rörelsen utan aktivt mothåll mot armstöd/sits,045,0.2143
+2a_2,f3,9,Händer/armar följer med i rörelsen utan aktivt mothåll mot armstöd/sits,047,1.0
+2a_2,f3,9,Händer/armar följer med i rörelsen utan aktivt mothåll mot armstöd/sits,059,0.2143
+2a_2,f3,9,Händer/armar följer med i rörelsen utan aktivt mothåll mot armstöd/sits,061,0.6667
+2a_2,f3,9,Händer/armar följer med i rörelsen utan aktivt mothåll mot armstöd/sits,074,0.2143
+2a_2,f3,9,Händer/armar följer med i rörelsen utan aktivt mothåll mot armstöd/sits,076,0.3333
+2a_2,f3,9,Händer/armar följer med i rörelsen utan aktivt mothåll mot armstöd/sits,091,1.0
+2a_2,f3,9,Händer/armar följer med i rörelsen utan aktivt mothåll mot armstöd/sits,093,0.6667
