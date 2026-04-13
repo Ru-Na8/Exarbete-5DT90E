@@ -1,4 +1,5 @@
 phase,aspect,candidate_features,data_source,rationale
+f1,Fötterna rakt framför höftlederna,mean_left_knee_angle/ mean_right_knee_angle,SAT,SAT knee angle ~90° is the closest proxy for feet positioned directly in front of hips
 f1,Knä flex >90gr,mean_left_knee_angle/ mean_right_knee_angle,SAT,SAT left knee flexion angle directly quantifies whether the knee exceeds the required 90° starting position/ SAT right knee flexion angle directly quantifies whether the knee exceeds the required 90° starting position
 f1,Knäskålarna riktade rakt fram,delta_knee_angle/ delta_knee_asymmetry,SAT/ MoLab,SAT left-right knee angle difference indicates whether kneecaps are symmetrically directed forward/ MoLab left-right knee angle difference directly quantifies kneecap alignment asymmetry
 f1,Bäcken i neutralposition (lätt framåttippat),mean_trunk_angle/ mean_pelvis_tilt,SAT/ MoLab,SAT trunk sagittal angle captures pelvic orientation in the starting posture/ MoLab pelvis tilt is added because it measures slight anterior pelvic tilt more directly than SAT

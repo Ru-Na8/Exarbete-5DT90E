@@ -1,4 +1,6 @@
 movement,phase,aspect_id,aspect_name,features_dir,csv_file,feature_column,source,rationale
+2a_1,f1,1,Fötterna rakt framför höftlederna,features,utgångsposition.csv,mean_left_knee_angle,SAT,SAT knee angle ~90° is the closest proxy for feet positioned directly in front of hips
+2a_1,f1,1,Fötterna rakt framför höftlederna,features,utgångsposition.csv,mean_right_knee_angle,SAT,SAT knee angle ~90° is the closest proxy for feet positioned directly in front of hips
 2a_1,f1,2,Knä flex >90gr,features,utgångsposition.csv,mean_left_knee_angle,SAT,SAT left knee flexion angle directly quantifies whether the knee exceeds the required 90° starting position
 2a_1,f1,2,Knä flex >90gr,features,utgångsposition.csv,mean_right_knee_angle,SAT,SAT right knee flexion angle directly quantifies whether the knee exceeds the required 90° starting position
 2a_1,f1,3,Knäskålarna riktade rakt fram,features,utgångsposition.csv,delta_knee_angle,SAT,SAT left-right knee angle difference indicates whether kneecaps are symmetrically directed forward
