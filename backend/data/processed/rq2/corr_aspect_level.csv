@@ -1,0 +1,39 @@
+movement,phase,aspect_id,aspect_name,n,rho,p
+2a_2,f3,8,Knäna bibehålls riktade mot mellersta tån,4,1.0,0.0
+2a_2,f1,15,Bålen placerad rakt över bäckenet i sagittalplan,7,0.879,0.009
+2a_2,f3,4,Knäna bibehålls riktade mot mellersta tån,4,0.8,0.2
+2a_2,f3,3,Knäna fortsätter böjas och rör sig framåt initialt.,10,0.713,0.021
+2a_2,f1,11,Huvudet symmetrisk position rakt ovanför bålen,5,0.707,0.182
+2a_2,f1,6,Bäckenet neutralt framåttippat i sagittalplan,5,0.671,0.215
+2a_2,f1,1,"Står med fötterna parallellt, riktade rakt fram",10,0.64,0.046
+2a_1,f1,1,Fötterna rakt framför höftlederna,10,0.601,0.066
+2a_1,f1,10,Huvudet positionerat över bålen,10,0.568,0.087
+2a_2,f1,14,Överarmarna längs med bålen,4,0.544,0.456
+2a_1,f1,6,Ländrygg i neutral ländlordos,4,0.447,0.553
+2a_2,f3,2,Bålen fortsätter fällas framåt och höftböjningen fortskrider,10,0.383,0.274
+2a_1,f2,1,Framåttippning av bäckenet och framåtfällning av bålen,10,0.381,0.277
+2a_1,f1,11,Nacke i neutral cervikallordos,9,0.35,0.355
+2a_1,f3,1,Rörelsen utförs med jämt flöde (fluid och smooth),10,0.29,0.416
+2a_2,f3,7,Förflyttar bäckenet bakåt/nedåt kontrollerat och symmetriskt,8,0.247,0.555
+2a_1,f3,5,Händer och armar följer avslappnat med i rörelsen utan aktivt tryck/drag/pendling,10,0.241,0.503
+2a_1,f3,4,Huvudet följer i linje med bålens längsaxel,9,0.201,0.604
+2a_1,f1,4,Bäcken i neutralposition (lätt framåttippat),9,0.18,0.644
+2a_1,f3,9,Sträcker knä- och höftleder till neutralläge för stående,10,0.167,0.644
+2a_2,f1,5,Knäna neutralt semiflekterade,10,0.095,0.793
+2a_1,f1,9,Överarmar neutralt längs med bålen utan rotation,10,0.072,0.844
+2a_2,f3,5,Kontrollerad sänkning av kroppen,10,0.058,0.873
+2a_1,f1,2,Knä flex >90gr,10,0.035,0.924
+2a_2,f2,1,"Bålen fälls framåt, höfter och knän böjs (flekteras)",10,0.026,0.943
+2a_2,f1,12,Cervikalrygg i neutral lordos i sagittalplan,5,0.0,1.0
+2a_2,f3,9,Händer/armar följer med i rörelsen utan aktivt mothåll mot armstöd/sits,10,-0.004,0.992
+2a_1,f3,3,Bäckenet fortsätter framåt tillsammans med bålen (flexion momentum),10,-0.013,0.972
+2a_1,f1,8,Hela bålen strax framför sittbensknölarna,8,-0.04,0.926
+2a_1,f1,3,Knäskålarna riktade rakt fram,10,-0.04,0.912
+2a_1,f3,10,Bålen vinklas upp till neutral stående utgångsposition,10,-0.046,0.9
+2a_1,f3,11,Nacke och skuldror följer hela bålens rörelse.,10,-0.051,0.889
+2a_2,f1,2,Står med fötterna rakt under höftlederna,10,-0.068,0.851
+2a_1,f3,12,Händer och armar följer avslappnat med i rörelsen utan aktivt tryck/drag/pendling,10,-0.19,0.599
+2a_1,f1,7,Bröstrygg i neutral thorakalkyfos,5,-0.316,0.604
+2a_1,f3,6,Bålen förflyttas ytterligare framåt med tillräcklig hastighet,10,-0.551,0.099
+2a_1,f3,8,Knät och underbenets proximala del förflyttas rakt framåt (dorsalflexion i fotlederna),10,-0.72,0.019
+2a_2,f1,9,Thorakalrygg i neutral kyfos i sagittalplan,3,,
