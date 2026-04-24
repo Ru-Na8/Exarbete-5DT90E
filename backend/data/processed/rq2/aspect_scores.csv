@@ -69,16 +69,16 @@ movement,phase,aspect_id,video_id,aspect_score,aspect_name
 2a_1,f1,8,061,0.0,Hela bålen strax framför sittbensknölarna
 2a_1,f1,8,076,0.4365,Hela bålen strax framför sittbensknölarna
 2a_1,f1,8,093,1.0,Hela bålen strax framför sittbensknölarna
-2a_1,f1,9,028,0.7274,Överarmar neutralt längs med bålen utan rotation
+2a_1,f1,9,028,0.621,Överarmar neutralt längs med bålen utan rotation
 2a_1,f1,9,045,0.0,Överarmar neutralt längs med bålen utan rotation
-2a_1,f1,9,059,0.7795,Överarmar neutralt längs med bålen utan rotation
+2a_1,f1,9,059,0.7998,Överarmar neutralt längs med bålen utan rotation
 2a_1,f1,9,074,1.0,Överarmar neutralt längs med bålen utan rotation
-2a_1,f1,9,091,0.1737,Överarmar neutralt längs med bålen utan rotation
-2a_1,f1,9,030,0.8891,Överarmar neutralt längs med bålen utan rotation
+2a_1,f1,9,091,0.1742,Överarmar neutralt längs med bålen utan rotation
+2a_1,f1,9,030,0.9726,Överarmar neutralt längs med bålen utan rotation
 2a_1,f1,9,047,1.0,Överarmar neutralt längs med bålen utan rotation
-2a_1,f1,9,061,0.4379,Överarmar neutralt längs med bålen utan rotation
+2a_1,f1,9,061,0.6314,Överarmar neutralt längs med bålen utan rotation
 2a_1,f1,9,076,0.0,Överarmar neutralt längs med bålen utan rotation
-2a_1,f1,9,093,0.2897,Överarmar neutralt längs med bålen utan rotation
+2a_1,f1,9,093,0.3142,Överarmar neutralt längs med bålen utan rotation
 2a_1,f1,10,028,0.6334,Huvudet positionerat över bålen
 2a_1,f1,10,045,0.1707,Huvudet positionerat över bålen
 2a_1,f1,10,059,0.0,Huvudet positionerat över bålen
@@ -99,65 +99,55 @@ movement,phase,aspect_id,video_id,aspect_score,aspect_name
 2a_1,f1,11,061,1.0,Nacke i neutral cervikallordos
 2a_1,f1,11,076,0.7332,Nacke i neutral cervikallordos
 2a_1,f1,11,093,0.627,Nacke i neutral cervikallordos
-2a_1,f2,1,028,0.5204,Framåttippning av bäckenet och framåtfällning av bålen
-2a_1,f2,1,045,0.659,Framåttippning av bäckenet och framåtfällning av bålen
-2a_1,f2,1,059,0.7608,Framåttippning av bäckenet och framåtfällning av bålen
-2a_1,f2,1,074,0.1031,Framåttippning av bäckenet och framåtfällning av bålen
-2a_1,f2,1,091,0.5,Framåttippning av bäckenet och framåtfällning av bålen
-2a_1,f2,1,030,0.9325,Framåttippning av bäckenet och framåtfällning av bålen
-2a_1,f2,1,047,0.8482,Framåttippning av bäckenet och framåtfällning av bålen
-2a_1,f2,1,061,0.251,Framåttippning av bäckenet och framåtfällning av bålen
-2a_1,f2,1,076,0.3006,Framåttippning av bäckenet och framåtfällning av bålen
-2a_1,f2,1,093,0.3726,Framåttippning av bäckenet och framåtfällning av bålen
 2a_1,f3,1,028,0.6667,Rörelsen utförs med jämt flöde (fluid och smooth)
-2a_1,f3,1,045,0.3333,Rörelsen utförs med jämt flöde (fluid och smooth)
-2a_1,f3,1,059,0.006,Rörelsen utförs med jämt flöde (fluid och smooth)
-2a_1,f3,1,074,0.3783,Rörelsen utförs med jämt flöde (fluid och smooth)
+2a_1,f3,1,045,0.3746,Rörelsen utförs med jämt flöde (fluid och smooth)
+2a_1,f3,1,059,0.0431,Rörelsen utförs med jämt flöde (fluid och smooth)
+2a_1,f3,1,074,0.4056,Rörelsen utförs med jämt flöde (fluid och smooth)
 2a_1,f3,1,091,0.6443,Rörelsen utförs med jämt flöde (fluid och smooth)
-2a_1,f3,1,030,0.4349,Rörelsen utförs med jämt flöde (fluid och smooth)
-2a_1,f3,1,047,0.4848,Rörelsen utförs med jämt flöde (fluid och smooth)
-2a_1,f3,1,061,0.3551,Rörelsen utförs med jämt flöde (fluid och smooth)
+2a_1,f3,1,030,0.4574,Rörelsen utförs med jämt flöde (fluid och smooth)
+2a_1,f3,1,047,0.5471,Rörelsen utförs med jämt flöde (fluid och smooth)
+2a_1,f3,1,061,0.3867,Rörelsen utförs med jämt flöde (fluid och smooth)
 2a_1,f3,1,076,0.9489,Rörelsen utförs med jämt flöde (fluid och smooth)
-2a_1,f3,1,093,0.077,Rörelsen utförs med jämt flöde (fluid och smooth)
-2a_1,f3,3,028,0.5047,Bäckenet fortsätter framåt tillsammans med bålen (flexion momentum)
-2a_1,f3,3,045,0.5204,Bäckenet fortsätter framåt tillsammans med bålen (flexion momentum)
-2a_1,f3,3,059,0.3186,Bäckenet fortsätter framåt tillsammans med bålen (flexion momentum)
-2a_1,f3,3,074,0.4458,Bäckenet fortsätter framåt tillsammans med bålen (flexion momentum)
+2a_1,f3,1,093,0.0733,Rörelsen utförs med jämt flöde (fluid och smooth)
+2a_1,f3,3,028,0.5153,Bäckenet fortsätter framåt tillsammans med bålen (flexion momentum)
+2a_1,f3,3,045,0.523,Bäckenet fortsätter framåt tillsammans med bålen (flexion momentum)
+2a_1,f3,3,059,0.3234,Bäckenet fortsätter framåt tillsammans med bålen (flexion momentum)
+2a_1,f3,3,074,0.4543,Bäckenet fortsätter framåt tillsammans med bålen (flexion momentum)
 2a_1,f3,3,091,0.5831,Bäckenet fortsätter framåt tillsammans med bålen (flexion momentum)
-2a_1,f3,3,030,0.8315,Bäckenet fortsätter framåt tillsammans med bålen (flexion momentum)
-2a_1,f3,3,047,0.8215,Bäckenet fortsätter framåt tillsammans med bålen (flexion momentum)
-2a_1,f3,3,061,0.5203,Bäckenet fortsätter framåt tillsammans med bålen (flexion momentum)
-2a_1,f3,3,076,0.5941,Bäckenet fortsätter framåt tillsammans med bålen (flexion momentum)
+2a_1,f3,3,030,0.7564,Bäckenet fortsätter framåt tillsammans med bålen (flexion momentum)
+2a_1,f3,3,047,0.8635,Bäckenet fortsätter framåt tillsammans med bålen (flexion momentum)
+2a_1,f3,3,061,0.5069,Bäckenet fortsätter framåt tillsammans med bålen (flexion momentum)
+2a_1,f3,3,076,0.5896,Bäckenet fortsätter framåt tillsammans med bålen (flexion momentum)
 2a_1,f3,3,093,0.0854,Bäckenet fortsätter framåt tillsammans med bålen (flexion momentum)
-2a_1,f3,4,028,0.6427,Huvudet följer i linje med bålens längsaxel
-2a_1,f3,4,045,0.1919,Huvudet följer i linje med bålens längsaxel
+2a_1,f3,4,028,0.6689,Huvudet följer i linje med bålens längsaxel
+2a_1,f3,4,045,0.1865,Huvudet följer i linje med bålens längsaxel
 2a_1,f3,4,059,0.0,Huvudet följer i linje med bålens längsaxel
 2a_1,f3,4,074,1.0,Huvudet följer i linje med bålens längsaxel
-2a_1,f3,4,091,0.1189,Huvudet följer i linje med bålens längsaxel
+2a_1,f3,4,091,0.1749,Huvudet följer i linje med bålens längsaxel
 2a_1,f3,4,030,0.0,Huvudet följer i linje med bålens längsaxel
-2a_1,f3,4,047,0.8031,Huvudet följer i linje med bålens längsaxel
+2a_1,f3,4,047,0.7807,Huvudet följer i linje med bålens längsaxel
 2a_1,f3,4,061,1.0,Huvudet följer i linje med bålens längsaxel
-2a_1,f3,4,076,0.818,Huvudet följer i linje med bålens längsaxel
-2a_1,f3,4,093,0.4657,Huvudet följer i linje med bålens längsaxel
-2a_1,f3,5,028,0.7274,Händer och armar följer avslappnat med i rörelsen utan aktivt tryck/drag/pendling
+2a_1,f3,4,076,0.8083,Huvudet följer i linje med bålens längsaxel
+2a_1,f3,4,093,0.5051,Huvudet följer i linje med bålens längsaxel
+2a_1,f3,5,028,0.621,Händer och armar följer avslappnat med i rörelsen utan aktivt tryck/drag/pendling
 2a_1,f3,5,045,0.0,Händer och armar följer avslappnat med i rörelsen utan aktivt tryck/drag/pendling
-2a_1,f3,5,059,0.7795,Händer och armar följer avslappnat med i rörelsen utan aktivt tryck/drag/pendling
+2a_1,f3,5,059,0.7998,Händer och armar följer avslappnat med i rörelsen utan aktivt tryck/drag/pendling
 2a_1,f3,5,074,1.0,Händer och armar följer avslappnat med i rörelsen utan aktivt tryck/drag/pendling
-2a_1,f3,5,091,0.1737,Händer och armar följer avslappnat med i rörelsen utan aktivt tryck/drag/pendling
-2a_1,f3,5,030,0.8891,Händer och armar följer avslappnat med i rörelsen utan aktivt tryck/drag/pendling
+2a_1,f3,5,091,0.1742,Händer och armar följer avslappnat med i rörelsen utan aktivt tryck/drag/pendling
+2a_1,f3,5,030,0.9726,Händer och armar följer avslappnat med i rörelsen utan aktivt tryck/drag/pendling
 2a_1,f3,5,047,1.0,Händer och armar följer avslappnat med i rörelsen utan aktivt tryck/drag/pendling
-2a_1,f3,5,061,0.4379,Händer och armar följer avslappnat med i rörelsen utan aktivt tryck/drag/pendling
+2a_1,f3,5,061,0.6314,Händer och armar följer avslappnat med i rörelsen utan aktivt tryck/drag/pendling
 2a_1,f3,5,076,0.0,Händer och armar följer avslappnat med i rörelsen utan aktivt tryck/drag/pendling
-2a_1,f3,5,093,0.2897,Händer och armar följer avslappnat med i rörelsen utan aktivt tryck/drag/pendling
+2a_1,f3,5,093,0.3142,Händer och armar följer avslappnat med i rörelsen utan aktivt tryck/drag/pendling
 2a_1,f3,6,028,1.0,Bålen förflyttas ytterligare framåt med tillräcklig hastighet
-2a_1,f3,6,045,0.7684,Bålen förflyttas ytterligare framåt med tillräcklig hastighet
-2a_1,f3,6,059,0.4182,Bålen förflyttas ytterligare framåt med tillräcklig hastighet
-2a_1,f3,6,074,0.28,Bålen förflyttas ytterligare framåt med tillräcklig hastighet
+2a_1,f3,6,045,0.7786,Bålen förflyttas ytterligare framåt med tillräcklig hastighet
+2a_1,f3,6,059,0.4277,Bålen förflyttas ytterligare framåt med tillräcklig hastighet
+2a_1,f3,6,074,0.2741,Bålen förflyttas ytterligare framåt med tillräcklig hastighet
 2a_1,f3,6,091,0.1772,Bålen förflyttas ytterligare framåt med tillräcklig hastighet
-2a_1,f3,6,030,0.6447,Bålen förflyttas ytterligare framåt med tillräcklig hastighet
-2a_1,f3,6,047,0.5631,Bålen förflyttas ytterligare framåt med tillräcklig hastighet
+2a_1,f3,6,030,0.6665,Bålen förflyttas ytterligare framåt med tillräcklig hastighet
+2a_1,f3,6,047,0.6208,Bålen förflyttas ytterligare framåt med tillräcklig hastighet
 2a_1,f3,6,061,0.6743,Bålen förflyttas ytterligare framåt med tillräcklig hastighet
-2a_1,f3,6,076,0.9795,Bålen förflyttas ytterligare framåt med tillräcklig hastighet
+2a_1,f3,6,076,0.9865,Bålen förflyttas ytterligare framåt med tillräcklig hastighet
 2a_1,f3,6,093,0.0,Bålen förflyttas ytterligare framåt med tillräcklig hastighet
 2a_1,f3,8,028,0.4419,Knät och underbenets proximala del förflyttas rakt framåt (dorsalflexion i fotlederna)
 2a_1,f3,8,045,0.1536,Knät och underbenets proximala del förflyttas rakt framåt (dorsalflexion i fotlederna)
@@ -189,26 +179,26 @@ movement,phase,aspect_id,video_id,aspect_score,aspect_name
 2a_1,f3,10,061,0.339,Bålen vinklas upp till neutral stående utgångsposition
 2a_1,f3,10,076,0.4411,Bålen vinklas upp till neutral stående utgångsposition
 2a_1,f3,10,093,0.0,Bålen vinklas upp till neutral stående utgångsposition
-2a_1,f3,11,028,0.6427,Nacke och skuldror följer hela bålens rörelse.
-2a_1,f3,11,045,0.1919,Nacke och skuldror följer hela bålens rörelse.
+2a_1,f3,11,028,0.6689,Nacke och skuldror följer hela bålens rörelse.
+2a_1,f3,11,045,0.1865,Nacke och skuldror följer hela bålens rörelse.
 2a_1,f3,11,059,0.0,Nacke och skuldror följer hela bålens rörelse.
 2a_1,f3,11,074,1.0,Nacke och skuldror följer hela bålens rörelse.
-2a_1,f3,11,091,0.1189,Nacke och skuldror följer hela bålens rörelse.
+2a_1,f3,11,091,0.1749,Nacke och skuldror följer hela bålens rörelse.
 2a_1,f3,11,030,0.0,Nacke och skuldror följer hela bålens rörelse.
-2a_1,f3,11,047,0.8031,Nacke och skuldror följer hela bålens rörelse.
+2a_1,f3,11,047,0.7807,Nacke och skuldror följer hela bålens rörelse.
 2a_1,f3,11,061,1.0,Nacke och skuldror följer hela bålens rörelse.
-2a_1,f3,11,076,0.818,Nacke och skuldror följer hela bålens rörelse.
-2a_1,f3,11,093,0.4657,Nacke och skuldror följer hela bålens rörelse.
-2a_1,f3,12,028,0.7274,Händer och armar följer avslappnat med i rörelsen utan aktivt tryck/drag/pendling
+2a_1,f3,11,076,0.8083,Nacke och skuldror följer hela bålens rörelse.
+2a_1,f3,11,093,0.5051,Nacke och skuldror följer hela bålens rörelse.
+2a_1,f3,12,028,0.621,Händer och armar följer avslappnat med i rörelsen utan aktivt tryck/drag/pendling
 2a_1,f3,12,045,0.0,Händer och armar följer avslappnat med i rörelsen utan aktivt tryck/drag/pendling
-2a_1,f3,12,059,0.7795,Händer och armar följer avslappnat med i rörelsen utan aktivt tryck/drag/pendling
+2a_1,f3,12,059,0.7998,Händer och armar följer avslappnat med i rörelsen utan aktivt tryck/drag/pendling
 2a_1,f3,12,074,1.0,Händer och armar följer avslappnat med i rörelsen utan aktivt tryck/drag/pendling
-2a_1,f3,12,091,0.1737,Händer och armar följer avslappnat med i rörelsen utan aktivt tryck/drag/pendling
-2a_1,f3,12,030,0.8891,Händer och armar följer avslappnat med i rörelsen utan aktivt tryck/drag/pendling
+2a_1,f3,12,091,0.1742,Händer och armar följer avslappnat med i rörelsen utan aktivt tryck/drag/pendling
+2a_1,f3,12,030,0.9726,Händer och armar följer avslappnat med i rörelsen utan aktivt tryck/drag/pendling
 2a_1,f3,12,047,1.0,Händer och armar följer avslappnat med i rörelsen utan aktivt tryck/drag/pendling
-2a_1,f3,12,061,0.4379,Händer och armar följer avslappnat med i rörelsen utan aktivt tryck/drag/pendling
+2a_1,f3,12,061,0.6314,Händer och armar följer avslappnat med i rörelsen utan aktivt tryck/drag/pendling
 2a_1,f3,12,076,0.0,Händer och armar följer avslappnat med i rörelsen utan aktivt tryck/drag/pendling
-2a_1,f3,12,093,0.2897,Händer och armar följer avslappnat med i rörelsen utan aktivt tryck/drag/pendling
+2a_1,f3,12,093,0.3142,Händer och armar följer avslappnat med i rörelsen utan aktivt tryck/drag/pendling
 2a_2,f1,1,028,0.7587,"Står med fötterna parallellt, riktade rakt fram"
 2a_2,f1,1,045,0.2111,"Står med fötterna parallellt, riktade rakt fram"
 2a_2,f1,1,059,0.0,"Står med fötterna parallellt, riktade rakt fram"
@@ -319,16 +309,6 @@ movement,phase,aspect_id,video_id,aspect_score,aspect_name
 2a_2,f1,15,061,0.5583,Bålen placerad rakt över bäckenet i sagittalplan
 2a_2,f1,15,076,0.7768,Bålen placerad rakt över bäckenet i sagittalplan
 2a_2,f1,15,093,0.5,Bålen placerad rakt över bäckenet i sagittalplan
-2a_2,f2,1,028,0.374,"Bålen fälls framåt, höfter och knän böjs (flekteras)"
-2a_2,f2,1,045,0.4588,"Bålen fälls framåt, höfter och knän böjs (flekteras)"
-2a_2,f2,1,059,0.4799,"Bålen fälls framåt, höfter och knän böjs (flekteras)"
-2a_2,f2,1,074,0.4253,"Bålen fälls framåt, höfter och knän böjs (flekteras)"
-2a_2,f2,1,091,0.0681,"Bålen fälls framåt, höfter och knän böjs (flekteras)"
-2a_2,f2,1,030,0.5193,"Bålen fälls framåt, höfter och knän böjs (flekteras)"
-2a_2,f2,1,047,1.0,"Bålen fälls framåt, höfter och knän böjs (flekteras)"
-2a_2,f2,1,061,0.1736,"Bålen fälls framåt, höfter och knän böjs (flekteras)"
-2a_2,f2,1,076,0.2771,"Bålen fälls framåt, höfter och knän böjs (flekteras)"
-2a_2,f2,1,093,0.2738,"Bålen fälls framåt, höfter och knän böjs (flekteras)"
 2a_2,f3,2,028,0.2726,Bålen fortsätter fällas framåt och höftböjningen fortskrider
 2a_2,f3,2,045,0.1873,Bålen fortsätter fällas framåt och höftböjningen fortskrider
 2a_2,f3,2,059,0.6494,Bålen fortsätter fällas framåt och höftböjningen fortskrider
