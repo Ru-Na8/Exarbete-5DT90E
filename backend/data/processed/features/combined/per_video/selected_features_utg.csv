@@ -2,6 +2,6 @@ feature,iraf_score,spearman_rho,p_value,source
 utg_mean_R_knee_flexion,iraf_utg,-0.7454545454545454,0.01333014631544,MoLab
 forb_peak_pelvis_gyro,iraf_utg,0.6727272727272726,0.0330412225454377,MoLab
 forb_mean_pelvis_gyro,iraf_utg,0.6242424242424242,0.0537177672171674,MoLab
-forb_mean_trunk_angular_velocity,iraf_utg,0.7212121212121211,0.0185731550894602,Pose
-utg_mean_left_hip_angle,iraf_utg,0.4787878787878787,0.1615229280174559,Pose
-uppr_hip_forward_displacement,iraf_utg,-0.4181818181818181,0.2291128409828189,Pose
+forb_mean_trunk_angular_velocity,iraf_utg,0.5393939393939393,0.1075931877824147,Pose
+uppr_trunk_hip_correlation,iraf_utg,-0.5272727272727272,0.1173080655502023,Pose
+uppr_hip_forward_displacement,iraf_utg,-0.4909090909090908,0.1496556734208368,Pose

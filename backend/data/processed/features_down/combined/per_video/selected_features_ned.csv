@@ -2,6 +2,6 @@ feature,iraf_score,spearman_rho,p_value,source
 utg_delta_knee_asymmetry,iraf_ned,-0.7767911009502655,0.0082129410375381,MoLab
 bak_pelvis_lateral,iraf_ned,-0.7278593780557606,0.0170141863821992,MoLab
 ned_pelvis_lateral,iraf_ned,-0.64834532835219,0.0425995398495612,MoLab
-ned_hip_descent,iraf_ned,-0.7890240316738918,0.0066604718948152,Pose
-ned_peak_trunk_angular_velocity,iraf_ned,-0.7706746355884525,0.0090779645288292,Pose
-ned_rms_trunk_acceleration,iraf_ned,-0.642228862990377,0.0452591471999268,Pose
+ned_peak_trunk_angular_velocity,iraf_ned,-0.7156264473321343,0.0199574946949778,Pose
+ned_rms_trunk_acceleration,iraf_ned,-0.697277051246695,0.0250053645039033,Pose
+utg_mean_trunk_angle,iraf_ned,-0.5504818825631803,0.0991645536139429,Pose

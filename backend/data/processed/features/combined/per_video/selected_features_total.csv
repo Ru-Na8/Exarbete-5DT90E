@@ -4,6 +4,6 @@ forb_mean_pelvis_gyro,iraf_total,0.7818181818181817,0.0075470077810678,MoLab
 forb_rms_pelvis_acc,iraf_total,0.7696969696969697,0.0092219527222159,MoLab
 forb_hip_flexion_range,iraf_total,0.7212121212121211,0.0185731550894602,MoLab
 forb_delta_pelvis_tilt,iraf_total,0.7212121212121211,0.0185731550894602,MoLab
-forb_mean_trunk_angular_velocity,iraf_total,0.7939393939393938,0.0060999233136969,Pose
-forb_rms_trunk_acceleration,iraf_total,0.6242424242424242,0.0537177672171674,Pose
-forb_initial_trunk_angle,iraf_total,-0.5878787878787878,0.073877706888658,Pose
+uppr_trunk_hip_correlation,iraf_total,-0.6606060606060605,0.0375883775714093,Pose
+forb_mean_trunk_angular_velocity,iraf_total,0.6606060606060605,0.0375883775714093,Pose
+uppr_hip_forward_displacement,iraf_total,-0.6484848484848483,0.0425401276844894,Pose

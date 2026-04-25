@@ -1,7 +1,7 @@
 phase,feature_set,model,Accuracy,F1,AUC
-utg,pose,LogisticRegression,0.7,0.8,0.81
+utg,pose,LogisticRegression,0.7,0.8,0.714
 utg,molab,LogisticRegression,0.5,0.667,0.619
-utg,combined,RandomForest,0.7,0.8,0.786
+utg,combined,LogisticRegression,0.6,0.714,0.619
 ned,pose,LogisticRegression,1.0,0.0,
 ned,molab,LogisticRegression,1.0,0.0,
 ned,combined,LogisticRegression,1.0,0.0,

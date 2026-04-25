@@ -11,13 +11,13 @@ utg,LogisticRegression,pose,091,1,0
 utg,LogisticRegression,pose,093,1,1
 utg,RandomForest,pose,028,0,1
 utg,RandomForest,pose,030,0,1
-utg,RandomForest,pose,045,1,0
+utg,RandomForest,pose,045,1,1
 utg,RandomForest,pose,047,1,1
 utg,RandomForest,pose,059,1,1
 utg,RandomForest,pose,061,1,1
-utg,RandomForest,pose,074,0,0
+utg,RandomForest,pose,074,0,1
 utg,RandomForest,pose,076,1,1
-utg,RandomForest,pose,091,1,1
+utg,RandomForest,pose,091,1,0
 utg,RandomForest,pose,093,1,1
 utg,XGBoost,pose,028,0,1
 utg,XGBoost,pose,030,0,1
@@ -75,7 +75,7 @@ utg,RandomForest,combined,045,1,1
 utg,RandomForest,combined,047,1,1
 utg,RandomForest,combined,059,1,1
 utg,RandomForest,combined,061,1,1
-utg,RandomForest,combined,074,0,0
+utg,RandomForest,combined,074,0,1
 utg,RandomForest,combined,076,1,1
 utg,RandomForest,combined,091,1,0
 utg,RandomForest,combined,093,1,1

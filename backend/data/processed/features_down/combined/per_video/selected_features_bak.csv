@@ -3,8 +3,8 @@ bak_rms_pelvis_acc,iraf_bak,0.7865999889816444,0.0069499565821644,MoLab
 ned_rms_pelvis_acc,iraf_bak,0.7073302226501608,0.0221428647660741,MoLab
 ned_peak_pelvis_gyro,iraf_bak,0.6768418509842056,0.0315868636010344,MoLab
 utg_mean_L_knee_flexion,iraf_bak,0.6463534793182504,0.0434538133118048,MoLab
-bak_rms_pelvis_acc_x,iraf_bak,0.8170883606475996,0.0039020358324549,Pose
 bak_rms_pelvis_acc_y,iraf_bak,0.7865999889816444,0.0069499565821644,Pose
 utg_mean_right_knee_angle,iraf_bak,0.7805023146484533,0.0077174786887822,Pose
 utg_mean_right_hip_angle,iraf_bak,0.7683069659820713,0.0094294327366938,Pose
 utg_shoulder_asym,iraf_bak,-0.7622092916488802,0.0103786244997926,Pose
+utg_mean_left_hip_angle,iraf_bak,0.7561116173156892,0.0113931298926964,Pose

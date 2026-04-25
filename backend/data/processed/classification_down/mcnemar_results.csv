@@ -1,13 +1,13 @@
 phase,feature_set,model_1,model_2,b,c,p_value,significant
-utg,pose,LogisticRegression,RandomForest,1,1,1.0,False
+utg,pose,LogisticRegression,RandomForest,1,0,1.0,False
 utg,pose,LogisticRegression,XGBoost,1,1,1.0,False
-utg,pose,RandomForest,XGBoost,1,1,1.0,False
+utg,pose,RandomForest,XGBoost,0,1,1.0,False
 utg,molab,LogisticRegression,RandomForest,0,0,1.0,False
 utg,molab,LogisticRegression,XGBoost,0,2,0.5,False
 utg,molab,RandomForest,XGBoost,0,2,0.5,False
-utg,combined,LogisticRegression,RandomForest,0,1,1.0,False
+utg,combined,LogisticRegression,RandomForest,1,1,1.0,False
 utg,combined,LogisticRegression,XGBoost,1,2,1.0,False
-utg,combined,RandomForest,XGBoost,1,1,1.0,False
+utg,combined,RandomForest,XGBoost,0,1,1.0,False
 ned,pose,LogisticRegression,RandomForest,0,0,1.0,False
 ned,pose,LogisticRegression,XGBoost,0,0,1.0,False
 ned,pose,RandomForest,XGBoost,0,0,1.0,False
