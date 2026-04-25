@@ -1,0 +1,7 @@
+feature,iraf_score,spearman_rho,p_value,source
+ned_peak_thigh_gyro,iraf_utg,-0.6606060606060605,0.0375883775714093,MoLab
+ned_pelvis_lateral,iraf_utg,-0.5878787878787878,0.073877706888658,MoLab
+bak_delta_pelvis_tilt,iraf_utg,0.5757575757575757,0.0815528147726024,MoLab
+utg_stance_to_hip_ratio,iraf_utg,-0.7575757575757575,0.0111434467996942,Pose
+utg_stance_width,iraf_utg,-0.6484848484848483,0.0425401276844894,Pose
+ned_hip_descent,iraf_utg,-0.5878787878787878,0.073877706888658,Pose
