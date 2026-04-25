@@ -1,0 +1,7 @@
+feature,iraf_score,spearman_rho,p_value,source
+uppr_total_hip_extension,iraf_forb,-0.7631672440718629,0.0102252414890688,MoLab
+uppr_total_knee_extension,iraf_forb,-0.69546692403323,0.0255464275289761,MoLab
+forb_peak_pelvis_gyro,iraf_forb,0.6646940512883968,0.0360103690823689,MoLab
+uppr_hip_forward_displacement,iraf_forb,-0.6216120294456302,0.05503645975282,Pose
+uppr_trunk_hip_correlation,iraf_forb,-0.4862113893683642,0.1541900437764625,Pose
+uppr_trunk_reextension_angle,iraf_forb,-0.4615930911724977,0.1792987846010558,Pose
