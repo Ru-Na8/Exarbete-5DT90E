@@ -52,6 +52,9 @@ movement,phase,aspect_id,aspect_name,features_dir,csv_file,feature_column,source
 2a_2,f1,14,Överarmarna längs med bålen,features_down,down_bakåtgående.csv,bak_rms_wrist_acceleration,SAT,SAT wrist acceleration during descent is low when upper arms remain neutral along the body without active rotation
 2a_2,f1,15,Bålen placerad rakt över bäckenet i sagittalplan,features_down,down_utgångsposition.csv,utg_mean_trunk_angle,SAT,SAT trunk sagittal angle confirms trunk is positioned upright and aligned over pelvis
 2a_2,f1,15,Bålen placerad rakt över bäckenet i sagittalplan,features_down,down_molab_utgångsposition.csv,utg_mean_pelvis_tilt,MoLab,MoLab pelvis tilt confirms neutral pelvis position under the trunk in sagittal plane
+2a_2,f3,2,Bålen fortsätter fällas framåt och höftböjningen fortskrider,features_down,down_nedåtgående.csv,ned_ROM_trunk,SAT,SAT trunk ROM confirms the total forward lean range during the continued descent
+2a_2,f3,2,Bålen fortsätter fällas framåt och höftböjningen fortskrider,features_down,down_nedåtgående.csv,ned_ROM_hip,SAT,SAT hip flexion ROM directly quantifies continued hip bending during the descent
+2a_2,f3,3,Knäna fortsätter böjas och rör sig framåt initialt.,features_down,down_nedåtgående.csv,ned_ROM_knee,SAT,SAT knee flexion ROM measures how much the knees continue to bend and advance forward
 2a_2,f3,3,Knäna fortsätter böjas och rör sig framåt initialt.,features_down,down_nedåtgående.csv,ned_mean_knee_forward,SAT,SAT mean knee forward position quantifies the horizontal knee displacement over the toes
 2a_2,f3,4,Knäna bibehålls riktade mot mellersta tån,features_down,down_nedåtgående.csv,ned_knee_asym,SAT,SAT knee asymmetry measures whether both knees maintain symmetric forward direction in fas 1
 2a_2,f3,4,Knäna bibehålls riktade mot mellersta tån,features_down,down_molab_nedåtgående.csv,ned_knee_angle_diff,MoLab,MoLab left-right knee angle difference directly quantifies kneecap alignment toward the middle toe

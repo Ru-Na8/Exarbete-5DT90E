@@ -309,16 +309,26 @@ movement,phase,aspect_id,aspect_name,video_id,aspect_deviation
 2a_2,f1,15,Bålen placerad rakt över bäckenet i sagittalplan,076,0.789
 2a_2,f1,15,Bålen placerad rakt över bäckenet i sagittalplan,091,0.4496
 2a_2,f1,15,Bålen placerad rakt över bäckenet i sagittalplan,093,0.5117
+2a_2,f3,2,Bålen fortsätter fällas framåt och höftböjningen fortskrider,028,0.0
+2a_2,f3,2,Bålen fortsätter fällas framåt och höftböjningen fortskrider,030,0.0
+2a_2,f3,2,Bålen fortsätter fällas framåt och höftböjningen fortskrider,045,0.4754
+2a_2,f3,2,Bålen fortsätter fällas framåt och höftböjningen fortskrider,047,0.4386
+2a_2,f3,2,Bålen fortsätter fällas framåt och höftböjningen fortskrider,059,0.5898
+2a_2,f3,2,Bålen fortsätter fällas framåt och höftböjningen fortskrider,061,0.7498
+2a_2,f3,2,Bålen fortsätter fällas framåt och höftböjningen fortskrider,074,0.8872
+2a_2,f3,2,Bålen fortsätter fällas framåt och höftböjningen fortskrider,076,0.7749
+2a_2,f3,2,Bålen fortsätter fällas framåt och höftböjningen fortskrider,091,0.6126
+2a_2,f3,2,Bålen fortsätter fällas framåt och höftböjningen fortskrider,093,0.3555
 2a_2,f3,3,Knäna fortsätter böjas och rör sig framåt initialt.,028,0.0
 2a_2,f3,3,Knäna fortsätter böjas och rör sig framåt initialt.,030,0.0
-2a_2,f3,3,Knäna fortsätter böjas och rör sig framåt initialt.,045,1.0
-2a_2,f3,3,Knäna fortsätter böjas och rör sig framåt initialt.,047,1.0
-2a_2,f3,3,Knäna fortsätter böjas och rör sig framåt initialt.,059,0.2954
-2a_2,f3,3,Knäna fortsätter böjas och rör sig framåt initialt.,061,0.0571
-2a_2,f3,3,Knäna fortsätter böjas och rör sig framåt initialt.,074,0.2553
-2a_2,f3,3,Knäna fortsätter böjas och rör sig framåt initialt.,076,0.4571
-2a_2,f3,3,Knäna fortsätter böjas och rör sig framåt initialt.,091,0.9219
-2a_2,f3,3,Knäna fortsätter böjas och rör sig framåt initialt.,093,0.9357
+2a_2,f3,3,Knäna fortsätter böjas och rör sig framåt initialt.,045,0.5577
+2a_2,f3,3,Knäna fortsätter böjas och rör sig framåt initialt.,047,0.6642
+2a_2,f3,3,Knäna fortsätter böjas och rör sig framåt initialt.,059,0.2288
+2a_2,f3,3,Knäna fortsätter böjas och rör sig framåt initialt.,061,0.5286
+2a_2,f3,3,Knäna fortsätter böjas och rör sig framåt initialt.,074,0.6276
+2a_2,f3,3,Knäna fortsätter böjas och rör sig framåt initialt.,076,0.3235
+2a_2,f3,3,Knäna fortsätter böjas och rör sig framåt initialt.,091,0.598
+2a_2,f3,3,Knäna fortsätter böjas och rör sig framåt initialt.,093,0.7807
 2a_2,f3,4,Knäna bibehålls riktade mot mellersta tån,028,0.0
 2a_2,f3,4,Knäna bibehålls riktade mot mellersta tån,030,0.0
 2a_2,f3,4,Knäna bibehålls riktade mot mellersta tån,045,0.3103
